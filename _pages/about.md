@@ -42,7 +42,7 @@ I received my B.S. degree in Software Engineering from China University of Geosc
 - *2021.11* [Face security confrontation in OPPO Security Challenge](https://security.oppo.com/challenge/competition-detail.html), Runner-up. 
 
 # 📖 Educations
-- *2018.06 - 2022.04 (now)* School of Cyberspace Security, University of Chinese Academy of Sciences,  
+- *2018.06 - 2022.04 (now)* School of Cyberspace Security, University of Chinese Academy of Sciences.  
 - *2013.09 - 2018.06*, School of Information Engineering, China University of Geosciences. 
 
 <!-- # 💬 Invited Talks
