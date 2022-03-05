@@ -43,7 +43,7 @@ I received my B.S. degree in Software Engineering from China University of Geosc
 
 # 📖 Educations
 - *2018.06 - 2022.04 (now)* School of Cyberspace Security, University of Chinese Academy of Sciences,  
-- *2013.09 - 2018.06*, Software Engineering from China University of Geosciences, China. 
+- *2013.09 - 2018.06*, School of Information Engineering, China University of Geosciences. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
