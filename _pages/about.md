@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: ""
 excerpt: ""
@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- -->
 
 <!-- {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
-<!-- <span class='anchor' id='about-me'></span> -->
+<span class='anchor' id='about-me'></span>
 # 🔥 Biography
 I received my B.S. degree in Software Engineering from China University of Geosciences, China. I am now a Ph.D student in University of Chinese Academy of Sciences. My research interests include computer vision, adversarial attack, adversarial training and reinforcement learning etc. I am the author of referred journals and conferences in CVPR, AAAI, ACM Multimedia etc. I will graduate in June 2023 (expected). Currently, I am looking for both academic and industrial job opportunities (especially post-doc positions regarding AI security) starting from Summer 2023. Feel free to connect if there are suitable opportunities!
 
