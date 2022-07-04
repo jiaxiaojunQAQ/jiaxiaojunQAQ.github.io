@@ -38,6 +38,11 @@ I received my B.S. degree in Software Engineering from China University of Geosc
 
 - [Boosting Fast Adversarial Training with Learnable Adversarial Initialization](https://arxiv.org/pdf/2110.05007.pdf), **Xiaojun Jia**, Yong Zhang, Baoyuan Wu, Jue Wang, Xiaochun Cao **TIP, 2022**  \| [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:zYLM7Y9cAGgC) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-SDI)
 
+- Prior-Guided Adversarial Initialization for Fast Adversarial Training, **Xiaojun Jia**, Yong Zhang, Xingxing Wei, Baoyuan Wu, Ke Ma, Jue Wang, Xiaochun Cao **ECCV, 2022** 
+
+- Watermark Vaccine: Adversarial Attacks to Prevent Watermark Removal,  Xinwei Liu, Jian Liu, Yang Bai, Jindong Gu, Tao Chen, **Xiaojun Jia(Corresponding Author)**, Xiaochun Cao **ECCV, 2022** 
+
+- A Large-scale Multiple-objective Method for Black-box Attack against Object Detection, Siyuan Liang, Longkang Li, Yanbo Fan, **Xiaojun Jia**, Jingzhi Li, Baoyuan Wu, and Xiaochun Cao **ECCV, 2022** 
 
 <!--
 # 🎉 Preprints
