@@ -38,7 +38,7 @@ I received my B.S. degree in Software Engineering from China University of Geosc
 
 - [Boosting Fast Adversarial Training with Learnable Adversarial Initialization](https://arxiv.org/pdf/2110.05007.pdf), **Xiaojun Jia**, Yong Zhang, Baoyuan Wu, Jue Wang, Xiaochun Cao **TIP, 2022**  \| [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:zYLM7Y9cAGgC) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-SDI)
 
-- Prior-Guided Adversarial Initialization for Fast Adversarial Training, **Xiaojun Jia**, Yong Zhang, Xingxing Wei, Baoyuan Wu, Ke Ma, Jue Wang, Xiaochun Cao **ECCV, 2022** 
+- [Prior-Guided Adversarial Initialization for Fast Adversarial Training]([https://arxiv.org/pdf/2110.05007.pdf](https://link.springer.com/chapter/10.1007/978-3-031-19772-7_33), **Xiaojun Jia**, Yong Zhang, Xingxing Wei, Baoyuan Wu, Ke Ma, Jue Wang, Xiaochun Cao **ECCV, 2022** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:WF5omc3nYNoC) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-PGI)
 
 - Watermark Vaccine: Adversarial Attacks to Prevent Watermark Removal,  Xinwei Liu, Jian Liu, Yang Bai, Jindong Gu, Tao Chen, **Xiaojun Jia(Corresponding Author)**, Xiaochun Cao **ECCV, 2022** 
 
