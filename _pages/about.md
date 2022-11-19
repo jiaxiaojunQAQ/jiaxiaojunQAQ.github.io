@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🔥 Biography
-I received my B.S. degree in Software Engineering from China University of Geosciences, China. I am now a Ph.D student in University of Chinese Academy of Sciences. My research interests include computer vision, adversarial attack, adversarial training and reinforcement learning etc. I am the author of referred journals and conferences in CVPR, AAAI, ACM Multimedia etc. I will graduate in June 2023 (expected). Currently, I am looking for both academic and industrial job opportunities (especially post-doc positions regarding AI security) starting from Summer 2023. Feel free to connect if there are suitable opportunities!
+I received my B.S. degree in Software Engineering from China University of Geosciences, China. I am now a Ph.D student in University of Chinese Academy of Sciences, advised by Professor [Xiaochun Cao](https://people.ucas.ac.cn/~0022382?language=en). My research interests include computer vision, adversarial attack, adversarial training and reinforcement learning etc. I am the author of referred journals and conferences in CVPR, AAAI, ACM Multimedia etc. I will graduate in June 2023 (expected). Currently, I am looking for both academic and industrial job opportunities (especially post-doc positions regarding AI security) starting from Summer 2023. Feel free to connect if there are suitable opportunities!
 
 
 <!-- # 🎉 News
@@ -54,6 +54,7 @@ Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Facto
 # 🎖 Honors and Awards
 - *2021.06* [ACM MM2021 Security AI Challenger: Robust Logo Detection](https://s.alibaba.com/challenge/ACMMM2021ChallengeRobustLogoDetection/?spm=5176.12281976.0.0.783430499dGPgZ), Runner-up. 
 - *2021.11* [Face security confrontation in OPPO Security Challenge](https://security.oppo.com/challenge/competition-detail.html), Runner-up. 
+- *2021* Best Paper of `Adversarial for Good’ Award, ICML AdvML Workshop.
 
 # 📖 Educations
 - *2018.06 - 2022.04 (now)* School of Cyberspace Security, University of Chinese Academy of Sciences.  
