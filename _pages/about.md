@@ -59,9 +59,3 @@ Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Facto
 - *2018.06 - 2022.04 (now)* School of Cyberspace Security, University of Chinese Academy of Sciences.  
 - *2014.09 - 2018.06*, School of Information Engineering, China University of Geosciences. 
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
