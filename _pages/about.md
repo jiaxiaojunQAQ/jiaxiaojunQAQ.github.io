@@ -44,9 +44,12 @@ I received my B.S. degree in Software Engineering from China University of Geosc
 
 - [A Large-scale Multiple-objective Method for Black-box Attack against Object Detection](https://link.springer.com/chapter/10.1007/978-3-031-19772-7_36), Siyuan Liang, Longkang Li, Yanbo Fan, **Xiaojun Jia**, Jingzhi Li, Baoyuan Wu, and Xiaochun Cao **ECCV, 2022** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:roLk4NBRz8UC) \| [Github](https://github.com/LiangSiyuan21/GARSDC)
 
-- Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization Bangyan He, Jian Liu, Yiming Li, Siyuan Liang, Jingzhi Li, **Xiaojun Jia(Corresponding Author)**, Xiaochun Cao **AAAI, 2023**
+- Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization, Bangyan He, Jian Liu, Yiming Li, Siyuan Liang, Jingzhi Li, **Xiaojun Jia(Corresponding Author)**, Xiaochun Cao **AAAI, 2023**
 
 - [Inequality phenomenon in adversarial training, and its unrealized threats](https://openreview.net/forum?id=4t9q35BxGr), Ranjie Duan, YueFeng Chen, Yao Zhu, **Xiaojun Jia**, Rong Zhang, Hui Xue  **ICLR, 2023** \| [**Project**](https://openreview.net/forum?id=4t9q35BxGr) \| [Github](https://github.com/RjDuan/Inequality_Phenomenon_in_AT)
+
+- Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training, Gege Qi, Yuefeng Chen, Xiaofeng Mao, **Xiaojun Jia**, Ranjie Duan, rong zhang, hui xue,  **INTERSPEECH 2023**
+
 
 <!--
 # 🎉 News
