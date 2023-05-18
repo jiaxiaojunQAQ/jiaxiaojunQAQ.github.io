@@ -46,7 +46,7 @@ I received my B.S. degree in Software Engineering from China University of Geosc
 
 - Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization Bangyan He, Jian Liu, Yiming Li, Siyuan Liang, Jingzhi Li, **Xiaojun Jia(Corresponding Author)**, Xiaochun Cao **AAAI, 2023**
 
-- [Inequality phenomenon in $l_{\infty}$\-adversarial training, and its unrealized threats](https://openreview.net/forum?id=4t9q35BxGr), Ranjie Duan, YueFeng Chen, Yao Zhu, **Xiaojun Jia**, Rong Zhang, Hui Xue  **ICLR, 2023** \| [**Project**](https://openreview.net/forum?id=4t9q35BxGr) \| [Github](https://github.com/RjDuan/Inequality_Phenomenon_in_AT)
+- [Inequality phenomenon in adversarial training, and its unrealized threats](https://openreview.net/forum?id=4t9q35BxGr), Ranjie Duan, YueFeng Chen, Yao Zhu, **Xiaojun Jia**, Rong Zhang, Hui Xue  **ICLR, 2023** \| [**Project**](https://openreview.net/forum?id=4t9q35BxGr) \| [Github](https://github.com/RjDuan/Inequality_Phenomenon_in_AT)
 
 <!--
 # 🎉 News
