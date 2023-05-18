@@ -44,8 +44,13 @@ I received my B.S. degree in Software Engineering from China University of Geosc
 
 - [A Large-scale Multiple-objective Method for Black-box Attack against Object Detection](https://link.springer.com/chapter/10.1007/978-3-031-19772-7_36), Siyuan Liang, Longkang Li, Yanbo Fan, **Xiaojun Jia**, Jingzhi Li, Baoyuan Wu, and Xiaochun Cao **ECCV, 2022** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:roLk4NBRz8UC) \| [Github](https://github.com/LiangSiyuan21/GARSDC)
 
+- Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization Bangyan He, Jian Liu, Yiming Li, Siyuan Liang, Jingzhi Li, **Xiaojun Jia(Corresponding Author)**, Xiaochun Cao **AAAI, 2023**
+
+- [Inequality phenomenon in $l_{\infty}$-adversarial training, and its unrealized threats](https://openreview.net/forum?id=4t9q35BxGr), Ranjie Duan, YueFeng Chen, Yao Zhu, **Xiaojun Jia**, Rong Zhang, Hui Xue  \| [**Project**](https://openreview.net/forum?id=4t9q35BxGr) \| [Github](https://github.com/RjDuan/Inequality_Phenomenon_in_AT)
+
+<!--
 # 🎉 News
-Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization Bangyan He, Jian Liu, Yiming Li, Siyuan Liang, Jingzhi Li, **Xiaojun Jia(Corresponding Author)**, Xiaochun Cao **AAAI, 2023**
+Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization Bangyan He, Jian Liu, Yiming Li, Siyuan Liang, Jingzhi Li, **Xiaojun Jia(Corresponding Author)**, Xiaochun Cao **AAAI, 2023**-->
 
 <!--
 # 🎉 Preprints
@@ -54,7 +59,7 @@ Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Facto
 # 🎖 Honors and Awards
 - *2021.06* [ACM MM2021 Security AI Challenger: Robust Logo Detection](https://s.alibaba.com/challenge/ACMMM2021ChallengeRobustLogoDetection/?spm=5176.12281976.0.0.783430499dGPgZ), Runner-up. 
 - *2021.11* [Face security confrontation in OPPO Security Challenge](https://security.oppo.com/challenge/competition-detail.html), Runner-up. 
-- *2021* Best Paper of `Adversarial for Good’ Award, ICML AdvML Workshop.
+- *2021* Best Paper of Adversarial for Good Award, ICML AdvML Workshop.
 
 # 📖 Educations
 - *2018.06 - 2022.04 (now)* School of Cyberspace Security, University of Chinese Academy of Sciences.  
