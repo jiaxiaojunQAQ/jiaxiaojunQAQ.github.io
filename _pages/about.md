@@ -70,7 +70,7 @@ Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Facto
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.03*, School of Computer Science, China University of Geosciences.  \| [\[Slides\]]([https://github.com/](https://github.com/jiaxiaojunQAQ/jiaxiaojunQAQ.github.io/blob/main/Talking/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%A1%B6%E4%BC%9A%E6%8A%95%E7%A8%BF%E5%88%86%E4%BA%AB%E4%B8%8E%E4%BA%A4%E6%B5%81.pdf))
+- *2022.03*, School of Computer Science, China University of Geosciences.  \| [\[Slides\]]([https://github.com/https://github.com/jiaxiaojunQAQ/jiaxiaojunQAQ.github.io/blob/main/Talking/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%A1%B6%E4%BC%9A%E6%8A%95%E7%A8%BF%E5%88%86%E4%BA%AB%E4%B8%8E%E4%BA%A4%E6%B5%81.pdf])
 
 
 # 💻 Internships
