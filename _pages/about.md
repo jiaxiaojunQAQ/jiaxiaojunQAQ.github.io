@@ -69,8 +69,12 @@ Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Facto
 - *2014.09 - 2018.06*, School of Information Engineering, China University of Geosciences. 
 
 # 💬 Invited Talks
-- *2022.06*, 机器之心synced. \| [Slides](https://github.com/jiaxiaojunQAQ/jiaxiaojunQAQ.github.io/blob/main/Talking/%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83_LAS_AT.pdf)
-- *2022.03*, School of Computer Science, China University of Geosciences.  \| [Slides](https://github.com/jiaxiaojunQAQ/jiaxiaojunQAQ.github.io/blob/main/Talking/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%A1%B6%E4%BC%9A%E6%8A%95%E7%A8%BF%E5%88%86%E4%BA%AB%E4%B8%8E%E4%BA%A4%E6%B5%81.pdf)
+- *2022.11*, Department of Electronic Engineering,Tsinghua University. \| [Slide](https://github.com/jiaxiaojunQAQ/jiaxiaojunQAQ.github.io/blob/main/Talking/%E6%B8%85%E5%8D%8E-%E5%AF%B9%E6%8A%97%E8%AE%AD%E7%BB%83%20.pdf)
+- *2022.11*, Huawei Shield Lab. \| [Slide](https://github.com/jiaxiaojunQAQ/jiaxiaojunQAQ.github.io/blob/main/Talking/%E5%8D%8E%E4%B8%BA-%E5%AF%B9%E6%8A%97%E8%AE%AD%E7%BB%83.pdf)
+- *2022.07*, Institute of Information Engineering, University of Chinese Academy of Sciences. \| [Slide](https://github.com/jiaxiaojunQAQ/jiaxiaojunQAQ.github.io/blob/main/Talking/%E4%BF%A1%E5%B7%A5%E6%89%80_LAS_AT.pdf)
+- *2022.06*, AI Drive. \| [Slide](https://github.com/jiaxiaojunQAQ/jiaxiaojunQAQ.github.io/blob/main/Talking/AI_Drive_LAS_AT.pdf)
+- *2022.06*, 机器之心synced. \| [Slide](https://github.com/jiaxiaojunQAQ/jiaxiaojunQAQ.github.io/blob/main/Talking/%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83_LAS_AT.pdf)
+- *2022.03*, School of Computer Science, China University of Geosciences.  \| [Slide](https://github.com/jiaxiaojunQAQ/jiaxiaojunQAQ.github.io/blob/main/Talking/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%A1%B6%E4%BC%9A%E6%8A%95%E7%A8%BF%E5%88%86%E4%BA%AB%E4%B8%8E%E4%BA%A4%E6%B5%81.pdf)
 
 # 💻 Internships
 - *2020.05 - 2022.02*, Research Intern, Tencent AI Lab, Tencent, China.
