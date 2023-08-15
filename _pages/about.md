@@ -48,8 +48,8 @@ I am now a Ph.D student in University of Chinese Academy of Sciences, advised by
 
 - [Inequality phenomenon in adversarial training, and its unrealized threats](https://openreview.net/forum?id=4t9q35BxGr), Ranjie Duan, YueFeng Chen, Yao Zhu, **Xiaojun Jia**, Rong Zhang, Hui Xue  **ICLR, 2023** \| [**Project**](https://openreview.net/forum?id=4t9q35BxGr) \| [Github](https://github.com/RjDuan/Inequality_Phenomenon_in_AT)
 
-- Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training, Gege Qi, Yuefeng Chen, Xiaofeng Mao, **Xiaojun Jia**, Ranjie Duan, rong zhang, hui xue,  **INTERSPEECH 2023**
-
+- [Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training](https://arxiv.org/abs/2307.12498), Gege Qi, Yuefeng Chen, Xiaofeng Mao, **Xiaojun Jia**, Ranjie Duan, rong zhang, hui xue,  **INTERSPEECH 2023**
+- Hi-SIGIR: Hierachical Semantic-Guided Image-to-image Retrieval via Scene Graph, Yulu Wang, Pengwen Dai, **Xiaojun Jia**, Zhitao Zeng, Rui Li, Xiaochun Cao, **ACM MM, 2023**
 
 <!--
 # 🎉 News
