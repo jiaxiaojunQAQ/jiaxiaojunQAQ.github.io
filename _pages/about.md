@@ -51,9 +51,10 @@ I am now a Ph.D student in University of Chinese Academy of Sciences, advised by
 - [Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training](https://arxiv.org/abs/2307.12498), Gege Qi, Yuefeng Chen, Xiaofeng Mao, **Xiaojun Jia**, Ranjie Duan, rong zhang, hui xue,  **INTERSPEECH 2023**
 - Hi-SIGIR: Hierachical Semantic-Guided Image-to-image Retrieval via Scene Graph, Yulu Wang, Pengwen Dai, **Xiaojun Jia**, Zhitao Zeng, Rui Li, Xiaochun Cao, **ACM MM, 2023**
 
-<!--
-# 🎉 News
-Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization Bangyan He, Jian Liu, Yiming Li, Siyuan Liang, Jingzhi Li, **Xiaojun Jia(Corresponding Author)**, Xiaochun Cao **AAAI, 2023**-->
+
+# 🎉 Professional Service 
+Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, IEEE PAMI, IEEE TIP, IEEE TIFS
+
 
 <!--
 # 🎉 Preprints
