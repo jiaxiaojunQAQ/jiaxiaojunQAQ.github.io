@@ -53,7 +53,7 @@ I am now a Ph.D student in University of Chinese Academy of Sciences, advised by
 
 
 # 🎉 Professional Service 
-Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, IEEE PAMI, IEEE TIP, IEEE TIFS
+Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, IEEE TPAMI, IEEE TIP, IEEE TIFS
 
 
 <!--
