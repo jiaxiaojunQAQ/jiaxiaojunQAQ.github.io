@@ -49,7 +49,13 @@ I am now a Ph.D student in University of Chinese Academy of Sciences, advised by
 - [Inequality phenomenon in adversarial training, and its unrealized threats](https://openreview.net/forum?id=4t9q35BxGr), Ranjie Duan, YueFeng Chen, Yao Zhu, **Xiaojun Jia**, Rong Zhang, Hui Xue  **ICLR, 2023** \| [**Project**](https://openreview.net/forum?id=4t9q35BxGr) \| [Github](https://github.com/RjDuan/Inequality_Phenomenon_in_AT)
 
 - [Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training](https://arxiv.org/abs/2307.12498), Gege Qi, Yuefeng Chen, Xiaofeng Mao, **Xiaojun Jia**, Ranjie Duan, rong zhang, hui xue,  **INTERSPEECH 2023**
-- Hi-SIGIR: Hierachical Semantic-Guided Image-to-image Retrieval via Scene Graph, Yulu Wang, Pengwen Dai, **Xiaojun Jia**, Zhitao Zeng, Rui Li, Xiaochun Cao, **ACM MM, 2023**
+  
+- [Hi-SIGIR: Hierachical Semantic-Guided Image-to-image Retrieval via Scene Graph](https://dl.acm.org/doi/10.1145/3581783.3612283), Yulu Wang, Pengwen Dai, **Xiaojun Jia**, Zhitao Zeng, Rui Li, Xiaochun Cao, **ACM MM, 2023**
+  
+- [Propagation is Better: Accelerating Single-Step Adversarial Training via Sampling Subnetwork](https://arxiv.org/pdf/2310.15444.pdf), **Xiaojun Jia**, Jianshu Li, Jindong Gu, Yang Bai and Xiaochun Cao, **TIFS, 2023**
+
+- [Context-Aware Robust Fine-Tuning](https://arxiv.org/pdf/2211.16175.pdf), Xiaofeng Mao, Yufeng Chen, **Xiaojun Jia**, Rong Zhang, Hui Xue and Zhao Li, **IJCV 2023**
+
 
 
 # 🎉 Professional Service 
