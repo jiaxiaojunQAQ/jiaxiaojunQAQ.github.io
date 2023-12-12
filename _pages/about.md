@@ -34,12 +34,15 @@ I am now a Ph.D student in University of Chinese Academy of Sciences, advised by
 
 - [Comdefend: An efficient image compression model to defend adversarial examples](https://openaccess.thecvf.com/content_CVPR_2019/papers/Jia_ComDefend_An_Efficient_Image_Compression_Model_to_Defend_Adversarial_Examples_CVPR_2019_paper.pdf), **Xiaojun Jia**, Xingxing Wei, Xiaochun Cao, Hassan Foroosh **CVPR, 2019** \| [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:2osOgNQ5qMEC) \| [Github](https://github.com/jiaxiaojunQAQ/Comdefend)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+</div>
+</div>
 
-
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/advwatermark.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- [Adv-watermark: A novel watermark perturbation for adversarial examples](https://dl.acm.org/doi/pdf/10.1145/3394171.3413976), **Xiaojun Jia**, Xingxing Wei, Xiaochun Cao, Xiaoguang Han **ACM MM, 2020** \| [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:9yKSN-GCB0IC) \| [Github](https://github.com/jiaxiaojunQAQ/Adv-watermark)
 </div>
 </div>
   
-- [Adv-watermark: A novel watermark perturbation for adversarial examples](https://dl.acm.org/doi/pdf/10.1145/3394171.3413976), **Xiaojun Jia**, Xingxing Wei, Xiaochun Cao, Xiaoguang Han **ACM MM, 2020** \| [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:9yKSN-GCB0IC) \| [Github](https://github.com/jiaxiaojunQAQ/Adv-watermark)
 - [Defending against Model Stealing via Verifying Embedded External Features](https://arxiv.org/pdf/2112.03476.pdf), Yiming Li, Linghui Zhu, **Xiaojun Jia**, Yong Jiang, Shu-Tao Xia, Xiaochun Cao **AAAI, 2021** \| [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:Y0pCki6q_DkC) \| [Github](https://github.com/jiaxiaojunQAQ/Backdoor-attack-against-speaker-verification)
 
 - [LAS-AT: Adversarial Training with Learnable Attack Strategy(Oral)](https://arxiv.org/pdf/2203.06616.pdf), **Xiaojun Jia**, Yong Zhang, Baoyuan Wu, Ke Ma, Jue Wang,  Xiaochun Cao **CVPR(Oral), 2022** \| [**Project**](https://arxiv.org/pdf/2203.06616.pdf) \| [Github](https://github.com/jiaxiaojunQAQ/LAS-AT)
