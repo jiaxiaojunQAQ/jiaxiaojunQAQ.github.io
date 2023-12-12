@@ -41,6 +41,7 @@ I am now a Ph.D student in University of Chinese Academy of Sciences, advised by
 <div class='paper-box-text' markdown="1">
   
 - [Adv-watermark: A novel watermark perturbation for adversarial examples](https://dl.acm.org/doi/pdf/10.1145/3394171.3413976), **Xiaojun Jia**, Xingxing Wei, Xiaochun Cao, Xiaoguang Han **ACM MM, 2020** \| [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:9yKSN-GCB0IC) \| [Github](https://github.com/jiaxiaojunQAQ/Adv-watermark)
+  
 </div>
 </div>
   
