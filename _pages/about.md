@@ -77,7 +77,13 @@ I am a Ph.D student in University of Chinese Academy of Sciences, advised by Pro
 </div>
 </div>  
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/WV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - [Watermark Vaccine: Adversarial Attacks to Prevent Watermark Removal](https://link.springer.com/chapter/10.1007/978-3-031-19781-9_1),  Xinwei Liu, Jian Liu, Yang Bai, Jindong Gu, Tao Chen, **Xiaojun Jia(Corresponding Author)**, Xiaochun Cao **ECCV, 2022** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:ufrVoPGSRksC) \| [Github](https://github.com/jiaxiaojunQAQ/Watermark-Vaccine)
+
+</div>
+</div>  
 
 - [A Large-scale Multiple-objective Method for Black-box Attack against Object Detection](https://link.springer.com/chapter/10.1007/978-3-031-19772-7_36), Siyuan Liang, Longkang Li, Yanbo Fan, **Xiaojun Jia**, Jingzhi Li, Baoyuan Wu, and Xiaochun Cao **ECCV, 2022** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:roLk4NBRz8UC) \| [Github](https://github.com/LiangSiyuan21/GARSDC)
 
