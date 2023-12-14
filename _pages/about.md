@@ -93,7 +93,13 @@ I am a Ph.D student in University of Chinese Academy of Sciences, advised by Pro
 </div>
 </div> 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/attack_3D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - [Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization](https://ojs.aaai.org/index.php/AAAI/article/view/25154), Bangyan He, Jian Liu, Yiming Li, Siyuan Liang, Jingzhi Li, **Xiaojun Jia(Corresponding Author)**, Xiaochun Cao **AAAI, 2023** \| [**Project**](https://ojs.aaai.org/index.php/AAAI/article/view/25154) \| [Github](https://github.com/HeBangYan/PF-Attack)
+
+</div>
+</div> 
 
 - [Inequality phenomenon in adversarial training, and its unrealized threats](https://openreview.net/forum?id=4t9q35BxGr), Ranjie Duan, YueFeng Chen, Yao Zhu, **Xiaojun Jia**, Rong Zhang, Hui Xue  **ICLR, 2023** \| [**Project**](https://openreview.net/forum?id=4t9q35BxGr) \| [Github](https://github.com/RjDuan/Inequality_Phenomenon_in_AT)
 
