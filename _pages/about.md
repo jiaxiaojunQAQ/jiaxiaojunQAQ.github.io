@@ -53,10 +53,21 @@ I am now a Ph.D student in University of Chinese Academy of Sciences, advised by
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/LAS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 - [LAS-AT: Adversarial Training with Learnable Attack Strategy(Oral)](https://arxiv.org/pdf/2203.06616.pdf), **Xiaojun Jia**, Yong Zhang, Baoyuan Wu, Ke Ma, Jue Wang,  Xiaochun Cao **CVPR(Oral), 2022** \| [**Project**](https://arxiv.org/pdf/2203.06616.pdf) \| [Github](https://github.com/jiaxiaojunQAQ/LAS-AT)
 
+</div>
+</div>  
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/FGSM_SDI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - [Boosting Fast Adversarial Training with Learnable Adversarial Initialization](https://arxiv.org/pdf/2110.05007.pdf), **Xiaojun Jia**, Yong Zhang, Baoyuan Wu, Jue Wang, Xiaochun Cao **TIP, 2022**  \| [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:zYLM7Y9cAGgC) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-SDI)
+
+</div>
+</div>  
 
 - [Prior-Guided Adversarial Initialization for Fast Adversarial Training](https://link.springer.com/chapter/10.1007/978-3-031-19772-7_33), **Xiaojun Jia**, Yong Zhang, Xingxing Wei, Baoyuan Wu, Ke Ma, Jue Wang, Xiaochun Cao **ECCV, 2022** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:WF5omc3nYNoC) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-PGI)
 
