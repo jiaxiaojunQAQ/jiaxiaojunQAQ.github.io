@@ -101,7 +101,13 @@ I am a Ph.D student in University of Chinese Academy of Sciences, advised by Pro
 </div>
 </div> 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ICLR2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - [Inequality phenomenon in adversarial training, and its unrealized threats](https://openreview.net/forum?id=4t9q35BxGr), Ranjie Duan, YueFeng Chen, Yao Zhu, **Xiaojun Jia**, Rong Zhang, Hui Xue  **ICLR, 2023** \| [**Project**](https://openreview.net/forum?id=4t9q35BxGr) \| [Github](https://github.com/RjDuan/Inequality_Phenomenon_in_AT)
+
+</div>
+</div> 
 
 - [Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training](https://arxiv.org/abs/2307.12498), Gege Qi, Yuefeng Chen, Xiaofeng Mao, **Xiaojun Jia**, Ranjie Duan, rong zhang, hui xue,  **INTERSPEECH 2023**
   
