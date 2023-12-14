@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaojun Jia"
-description              : "Ph.D. Candidate, UCAS."
+description              : "Research Fellow, NTu."
 repository               : "jiaxiaojunQAQ/jiaxiaojunQAQ.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Xiaojun Jia"
   avatar           : "images/加小俊.jpg"
   bio              :  # e.g.,"Lorem ipsum College"
-  location         : "Beijing, China"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
