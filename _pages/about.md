@@ -33,7 +33,7 @@ I am a Ph.D student in University of Chinese Academy of Sciences, advised by Pro
 <div class='paper-box-text' markdown="1">
 
 - [Comdefend: An efficient image compression model to defend adversarial examples](https://openaccess.thecvf.com/content_CVPR_2019/papers/Jia_ComDefend_An_Efficient_Image_Compression_Model_to_Defend_Adversarial_Examples_CVPR_2019_paper.pdf), **Xiaojun Jia**, Xingxing Wei, Xiaochun Cao, Hassan Foroosh **CVPR, 2019** \| [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:2osOgNQ5qMEC) \| [Github](https://github.com/jiaxiaojunQAQ/Comdefend)
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
 </div>
 </div>
 
@@ -109,8 +109,15 @@ I am a Ph.D student in University of Chinese Academy of Sciences, advised by Pro
 </div>
 </div> 
 
+ 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/INTERSPEECH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - [Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training](https://arxiv.org/abs/2307.12498), Gege Qi, Yuefeng Chen, Xiaofeng Mao, **Xiaojun Jia**, Ranjie Duan, rong zhang, hui xue,  **INTERSPEECH 2023**
-  
+
+</div>
+</div> 
+
 - [Hi-SIGIR: Hierachical Semantic-Guided Image-to-image Retrieval via Scene Graph](https://dl.acm.org/doi/10.1145/3581783.3612283), Yulu Wang, Pengwen Dai, **Xiaojun Jia**, Zhitao Zeng, Rui Li, Xiaochun Cao, **ACM MM, 2023**
   
 - [Propagation is Better: Accelerating Single-Step Adversarial Training via Sampling Subnetwork](https://arxiv.org/pdf/2310.15444.pdf), **Xiaojun Jia**, Jianshu Li, Jindong Gu, Yang Bai and Xiaochun Cao, **TIFS, 2023**
