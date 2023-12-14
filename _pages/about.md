@@ -69,7 +69,13 @@ I am now a Ph.D student in University of Chinese Academy of Sciences, advised by
 </div>
 </div>  
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/FGSM_PGI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - [Prior-Guided Adversarial Initialization for Fast Adversarial Training](https://link.springer.com/chapter/10.1007/978-3-031-19772-7_33), **Xiaojun Jia**, Yong Zhang, Xingxing Wei, Baoyuan Wu, Ke Ma, Jue Wang, Xiaochun Cao **ECCV, 2022** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:WF5omc3nYNoC) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-PGI)
+
+</div>
+</div>  
 
 - [Watermark Vaccine: Adversarial Attacks to Prevent Watermark Removal](https://link.springer.com/chapter/10.1007/978-3-031-19781-9_1),  Xinwei Liu, Jian Liu, Yang Bai, Jindong Gu, Tao Chen, **Xiaojun Jia(Corresponding Author)**, Xiaochun Cao **ECCV, 2022** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:ufrVoPGSRksC) \| [Github](https://github.com/jiaxiaojunQAQ/Watermark-Vaccine)
 
