@@ -85,7 +85,13 @@ I am a Ph.D student in University of Chinese Academy of Sciences, advised by Pro
 </div>
 </div>  
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/GAR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - [A Large-scale Multiple-objective Method for Black-box Attack against Object Detection](https://link.springer.com/chapter/10.1007/978-3-031-19772-7_36), Siyuan Liang, Longkang Li, Yanbo Fan, **Xiaojun Jia**, Jingzhi Li, Baoyuan Wu, and Xiaochun Cao **ECCV, 2022** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:roLk4NBRz8UC) \| [Github](https://github.com/LiangSiyuan21/GARSDC)
+
+</div>
+</div> 
 
 - [Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization](https://ojs.aaai.org/index.php/AAAI/article/view/25154), Bangyan He, Jian Liu, Yiming Li, Siyuan Liang, Jingzhi Li, **Xiaojun Jia(Corresponding Author)**, Xiaochun Cao **AAAI, 2023** \| [**Project**](https://ojs.aaai.org/index.php/AAAI/article/view/25154) \| [Github](https://github.com/HeBangYan/PF-Attack)
 
