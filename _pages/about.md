@@ -118,13 +118,30 @@ I am a Ph.D student in University of Chinese Academy of Sciences, advised by Pro
 </div>
 </div> 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Hi_SIGIR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - [Hi-SIGIR: Hierachical Semantic-Guided Image-to-image Retrieval via Scene Graph](https://dl.acm.org/doi/10.1145/3581783.3612283), Yulu Wang, Pengwen Dai, **Xiaojun Jia**, Zhitao Zeng, Rui Li, Xiaochun Cao, **ACM MM, 2023**
-  
+
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/FP_Better.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - [Propagation is Better: Accelerating Single-Step Adversarial Training via Sampling Subnetwork](https://arxiv.org/pdf/2310.15444.pdf), **Xiaojun Jia**, Jianshu Li, Jindong Gu, Yang Bai and Xiaochun Cao, **TIFS, 2023**
+
+</div>
+</div> 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 - [Context-Aware Robust Fine-Tuning](https://arxiv.org/pdf/2211.16175.pdf), Xiaofeng Mao, Yufeng Chen, **Xiaojun Jia**, Rong Zhang, Hui Xue and Zhao Li, **IJCV 2023**
 
-
+</div>
+</div> 
 
 # 🎉 Professional Service 
 Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, IEEE TPAMI, IEEE TIP, IEEE TIFS
