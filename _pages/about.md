@@ -21,7 +21,7 @@ I am a Ph.D student in University of Chinese Academy of Sciences, advised by Pro
 
 
 # 🎉 News
-- *2023.12*: &nbsp; One papers on AI safety and robustness are accepted in AAAI2024. 
+- *2023.12*: &nbsp; One paper on AI safety and robustness are accepted in AAAI2024. 
 
 
 # 📝 Publications 
