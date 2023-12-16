@@ -179,8 +179,9 @@ Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, IEEE TPAMI, IEEE T
 - *2021* Best Paper of Adversarial for Good Award, ICML AdvML Workshop.
 
 # 📖 Educations
-- *2018.06 - 2022.04 (now)* School of Cyberspace Security, University of Chinese Academy of Sciences.  
-- *2014.09 - 2018.06*, School of Information Engineering, China University of Geosciences. 
+- *2023.08 - now* Nanyang Technological University, research fellow.
+- *2018.06 - 2023.07* School of Cyberspace Security, University of Chinese Academy of Sciences, PhD.  
+- *2014.09 - 2018.06*, School of Information Engineering, China University of Geosciences, Bachelor. 
 
 # 💬 Invited Talks
 - *2022.11*, Department of Electronic Engineering,Tsinghua University. \| [Slide](https://github.com/jiaxiaojunQAQ/jiaxiaojunQAQ.github.io/blob/main/Talking/%E6%B8%85%E5%8D%8E-%E5%AF%B9%E6%8A%97%E8%AE%AD%E7%BB%83%20.pdf)
