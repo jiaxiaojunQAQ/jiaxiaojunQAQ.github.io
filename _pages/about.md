@@ -179,7 +179,7 @@ Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, IEEE TPAMI, IEEE T
 - *2021* Best Paper of Adversarial for Good Award, ICML AdvML Workshop.
 
 # 📖 Educations
-- *2023.08 - now* Nanyang Technological University, research fellow.
+- *2023.08 - now* Nanyang Technological University, Research Fellow.
 - *2018.06 - 2023.07* School of Cyberspace Security, University of Chinese Academy of Sciences, PhD.  
 - *2014.09 - 2018.06*, School of Information Engineering, China University of Geosciences, Bachelor. 
 
