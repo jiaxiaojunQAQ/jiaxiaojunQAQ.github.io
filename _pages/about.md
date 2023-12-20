@@ -26,7 +26,7 @@ I am a Postdoc at Nanyang Technological University, working with Prof. [LIU, Yan
 # 🎉 News
 - *2023.12*: &nbsp; Second runner-up in NeurIPS 2023 Red Teaming Track - Base Model Subtrack.
 - *2023.12*: &nbsp; One paper on AI safety and robustness are accepted in AAAI2024.
-- *2023.12*: &nbsp; One paper on AI safety and robustness are accepted in IJCV.
+- *2023.12*: &nbsp; One Journal paper on AI safety and robustness are accepted in IJCV.
 - *2023.10*: &nbsp; One Journal paper on Fast Adversarial Training is accepted to TIFS.
 
 
