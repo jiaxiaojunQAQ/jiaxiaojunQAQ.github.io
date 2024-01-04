@@ -36,6 +36,15 @@ I am a Postdoc at Nanyang Technological University, working with Prof. [LIU, Yan
 <!-- <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1"> -->
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/AAAI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Does Few-shot Learning Suffer from Backdoor Attacks?](https://arxiv.org/pdf/2401.01377.pdf), Xinwei Liu, **Xiaojun Jia(Corresponding Author)**, Jindong Gu, Yuan Xun, Siyuan Liang, Xiaochun Cao, **AAAI 2024**
+
+</div>
+</div> 
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/IJCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
