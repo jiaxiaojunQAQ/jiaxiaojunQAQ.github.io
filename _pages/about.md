@@ -24,6 +24,7 @@ I am a Postdoc at Nanyang Technological University, working with Prof. [LIU, Yan
 
 
 # 🎉 News
+- *2024.02*: &nbsp; One paper on Adversarial Attack on 3D is accepted in CVPR2024.
 - *2024.01*: &nbsp; One paper on Backdoor Attack is accepted in ICLR2024.
 - *2024.01*: &nbsp; One Journal paper on Backdoor Attack is accepted to TIFS.
 - *2023.12*: &nbsp; Second runner-up in NeurIPS 2023 Red Teaming Track - Base Model Subtrack.
