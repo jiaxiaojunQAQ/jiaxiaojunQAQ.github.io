@@ -1,4 +1,4 @@
----
+<img width="210" alt="Hit_adv (2)" src="https://github.com/jiaxiaojunQAQ/jiaxiaojunQAQ.github.io/assets/23453472/dfcda821-296f-4e7e-a26c-5202b5566283">---
 permalink: /
 title: ""
 excerpt: ""
@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🔥 Biography
-I am a Postdoc at Nanyang Technological University, working with Prof. [LIU, Yang](https://personal.ntu.edu.sg/yangliu/). I received my Ph.D. Degree from University of Chinese Academy of Sciences, advised by Professor [Xiaochun Cao](https://scst.sysu.edu.cn/members/caoxiaochun.htm).  My research interests include computer vision, adversarial attack, adversarial training and reinforcement learning etc. At present, I am focused on issues related to the security of large models, including jailbreaking attacks on LLM (Large Language Models), adversarial transferability on VLM (Vision Language Models), and so on.
+I am a Postdoc at Nanyang Technological University, working with Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/). I received my Ph.D. Degree from University of Chinese Academy of Sciences, advised by Professor [Xiaochun Cao](https://scst.sysu.edu.cn/members/caoxiaochun.htm).  My research interests include computer vision, adversarial attack, adversarial training and reinforcement learning etc. At present, I am focused on issues related to the security of large models, including jailbreaking attacks on LLM (Large Language Models), adversarial transferability on VLM (Vision Language Models), and so on.
 
 
 <!--I am a Ph.D student in University of Chinese Academy of Sciences, advised by Professor [Xiaochun Cao](https://scst.sysu.edu.cn/members/caoxiaochun.htm). My research interests include computer vision, adversarial attack, adversarial training and reinforcement learning etc. I am the author of referred journals and conferences in CVPR, AAAI, ACM Multimedia etc. I will graduate in June 2023 (expected). Currently, I am looking for both academic and industrial job opportunities (especially post-doc positions regarding AI security) starting from Summer 2023. Feel free to connect if there are suitable opportunities! -->
@@ -38,6 +38,17 @@ I am a Postdoc at Nanyang Technological University, working with Prof. [LIU, Yan
 
 <!-- <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1"> -->
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Hit_adv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Hide in Thicket: Generating Imperceptible and Rational Adversarial Perturbations on 3D Point Clouds](https://arxiv.org/pdf/2403.05247.pdf), Tianrui Lou,  **Xiaojun Jia(Corresponding Author)**, Jindong Gu, Li Liu, Siyuan Liang, Bangyan He, Xiaochun Cao, **CVPR 2024**
+
+</div>
+</div> 
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/AAAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
