@@ -60,9 +60,6 @@ I am a Postdoc at Nanyang Technological University, working with Prof. [Yang Liu
 
 
 
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/AAAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -85,7 +82,7 @@ I am a Postdoc at Nanyang Technological University, working with Prof. [Yang Liu
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/FP_Better.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Propagation is Better: Accelerating Single-Step Adversarial Training via Sampling Subnetwork](https://arxiv.org/pdf/2310.15444.pdf), **Xiaojun Jia**, Jianshu Li, Jindong Gu, Yang Bai and Xiaochun Cao, **TIFS, 2023**
+- [Propagation is Better: Accelerating Single-Step Adversarial Training via Sampling Subnetwork](https://arxiv.org/pdf/2310.15444.pdf), **Xiaojun Jia**, Jianshu Li, Jindong Gu, Yang Bai and Xiaochun Cao, **TIFS, 2023** 
 
 </div>
 </div> 
@@ -94,7 +91,7 @@ I am a Postdoc at Nanyang Technological University, working with Prof. [Yang Liu
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Hi_SIGIR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Hi-SIGIR: Hierachical Semantic-Guided Image-to-image Retrieval via Scene Graph](https://dl.acm.org/doi/10.1145/3581783.3612283), Yulu Wang, Pengwen Dai, **Xiaojun Jia**, Zhitao Zeng, Rui Li, Xiaochun Cao, **ACM MM, 2023**
+- [Hi-SIGIR: Hierachical Semantic-Guided Image-to-image Retrieval via Scene Graph](https://dl.acm.org/doi/10.1145/3581783.3612283), Yulu Wang, Pengwen Dai, **Xiaojun Jia**, Zhitao Zeng, Rui Li, Xiaochun Cao, **ACM MM, 2023**  \| [**Project**](https://dl.acm.org/doi/10.1145/3581783.3612283) \| [Github](https://github.com/lulu1999Wang/Hi-SIGIR)
 
 </div>
 </div> 
@@ -102,7 +99,7 @@ I am a Postdoc at Nanyang Technological University, working with Prof. [Yang Liu
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/INTERSPEECH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training](https://arxiv.org/abs/2307.12498), Gege Qi, Yuefeng Chen, Xiaofeng Mao, **Xiaojun Jia**, Ranjie Duan, rong zhang, hui xue,  **INTERSPEECH 2023**
+- [Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training](https://arxiv.org/abs/2307.12498), Gege Qi, Yuefeng Chen, Xiaofeng Mao, **Xiaojun Jia**, Ranjie Duan, rong zhang, hui xue,  **INTERSPEECH 2023**  \| [**Project**](https://arxiv.org/abs/2307.12498) \| [Github](https://github.com/alibaba/easyrobust/tree/main/examples/asr/WAPAT)
 
 </div>
 </div> 
