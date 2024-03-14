@@ -1,4 +1,4 @@
-<img width="210" alt="Hit_adv (2)" src="https://github.com/jiaxiaojunQAQ/jiaxiaojunQAQ.github.io/assets/23453472/dfcda821-296f-4e7e-a26c-5202b5566283">---
+<img width="210" alt="" src="https://github.com/jiaxiaojunQAQ/jiaxiaojunQAQ.github.io/assets/23453472/dfcda821-296f-4e7e-a26c-5202b5566283">---
 permalink: /
 title: ""
 excerpt: ""
