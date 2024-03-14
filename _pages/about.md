@@ -48,6 +48,18 @@ I am a Postdoc at Nanyang Technological University, working with Prof. [Yang Liu
 </div>
 </div> 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ICLR2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Poisoned Forgery Face: Towards Backdoor Attacks on Face Forgery Detection](https://arxiv.org/pdf/2402.11473.pdf), Jiawei Liang, Siyuan Liang, Aishan Liu, **Xiaojun Jia**, Junhao Kuang, Xiaochun Cao, **ICLR 2024** \| [**Project**](https://openreview.net/pdf?id=8iTpB4RNvP) \| [Github](https://github.com/JWLiang007/PFF?tab=readme-ov-file)
+
+
+</div>
+</div> 
+
+
+
+
 
 
 
