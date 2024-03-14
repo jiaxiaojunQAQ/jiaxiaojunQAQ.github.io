@@ -1,4 +1,4 @@
-<img width="210" alt="" src="https://github.com/jiaxiaojunQAQ/jiaxiaojunQAQ.github.io/assets/23453472/dfcda821-296f-4e7e-a26c-5202b5566283">---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 
 
 <!-- {% if site.google_scholar_stats_use_cdn %}
