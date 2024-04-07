@@ -26,14 +26,15 @@ I am a Postdoc at Nanyang Technological University, working with Prof. [Yang Liu
 
 
 # 🎉 News
+- *2024.04*: &nbsp; One paper on Fast Adversarial Training is accepted in TIFS2024.
 - *2024.03*: &nbsp; One paper on Fast Adversarial Training is accepted in TPAMI2024.
 - *2024.02*: &nbsp; One paper on Adversarial Attack on 3D is accepted in CVPR2024.
 - *2024.01*: &nbsp; One paper on Backdoor Attack is accepted in ICLR2024.
-- *2024.01*: &nbsp; One Journal paper on Backdoor Attack is accepted to TIFS.
+- *2024.01*: &nbsp; One Journal paper on Backdoor Attack is accepted to TIFS2024.
 - *2023.12*: &nbsp; Second runner-up in NeurIPS 2023 Red Teaming Track - Base Model Subtrack.
 - *2023.12*: &nbsp; One paper on AI safety and robustness are accepted in AAAI2024.
 - *2023.12*: &nbsp; One Journal paper on AI safety and robustness are accepted in IJCV.
-- *2023.10*: &nbsp; One Journal paper on Fast Adversarial Training is accepted to TIFS.
+- *2023.10*: &nbsp; One Journal paper on Fast Adversarial Training is accepted to TIFS2024.
 
 
 # 📝 Publications 
