@@ -45,7 +45,8 @@ I am a Postdoc at Nanyang Technological University, working with Prof. [Yang Liu
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Hit_adv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Hide in Thicket: Generating Imperceptible and Rational Adversarial Perturbations on 3D Point Clouds](https://arxiv.org/pdf/2403.05247.pdf), Tianrui Lou,  **Xiaojun Jia(Corresponding Author)**, Jindong Gu, Li Liu, Siyuan Liang, Bangyan He, Xiaochun Cao, **CVPR 2024** \| [**Project**](https://arxiv.org/pdf/2403.05247.pdf) \| [Github](https://github.com/TRLou/HiT-ADV)
+- [Improving Fast Adversarial Training with Prior-Guided Knowledge](https://arxiv.org/pdf/2304.00202.pdf), Xiaojun Jia, Yong Zhang, Xingxing Wei, Baoyuan Wu, Ke Ma,
+Jue Wang, and Xiaochun Cao, **TPAMI 2024** \| [**Project**](https://ieeexplore.ieee.org/abstract/document/10478545) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-PGK)
 
 </div>
 </div> 
