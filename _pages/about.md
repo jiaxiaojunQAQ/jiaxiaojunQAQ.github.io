@@ -46,7 +46,7 @@ I am a Postdoc at Nanyang Technological University, working with Prof. [Yang Liu
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/FGSM_LAW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Revisiting and Exploring Efficient Fast Adversarial Training via LAW: Lipschitz Regularization and Auto Weight Averaging](https://arxiv.org/pdf/2308.11443.pdf),**Xiaojun Jia**,  Yuefeng Chen, Xiaofeng Mao, Ranjie Duan, Jindong Gu, Rong Zhang, Hui Xue, Yang Liu, and Xiaochun Cao, **TIFS 2024** \| [**Project**](https://arxiv.org/pdf/2308.11443.pdf) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-LAW)
+- [Revisiting and Exploring Efficient Fast Adversarial Training via LAW: Lipschitz Regularization and Auto Weight Averaging](https://arxiv.org/pdf/2308.11443.pdf), **Xiaojun Jia**,  Yuefeng Chen, Xiaofeng Mao, Ranjie Duan, Jindong Gu, Rong Zhang, Hui Xue, Yang Liu, and Xiaochun Cao, **TIFS 2024** \| [**Project**](https://arxiv.org/pdf/2308.11443.pdf) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-LAW)
 
 </div>
 </div> 
