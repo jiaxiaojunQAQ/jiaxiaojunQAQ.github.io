@@ -42,10 +42,22 @@ I am a Postdoc at Nanyang Technological University, working with Prof. [Yang Liu
 <!-- <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1"> -->
 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/FGSM_LAW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Revisiting and Exploring Efficient Fast Adversarial Training via LAW: Lipschitz Regularization and Auto Weight Averaging](https://arxiv.org/pdf/2308.11443.pdf),**Xiaojun Jia**,  Yuefeng Chen, Xiaofeng Mao, Ranjie Duan, Jindong Gu, Rong Zhang, Hui Xue, Yang Liu, and Xiaochun Cao, **TIFS 2024** \| [**Project**](https://arxiv.org/pdf/2308.11443.pdf) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-LAW)
+
+</div>
+</div> 
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/FGSM_PGK.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Improving Fast Adversarial Training with Prior-Guided Knowledge](https://arxiv.org/pdf/2304.00202.pdf), Xiaojun Jia, Yong Zhang, Xingxing Wei, Baoyuan Wu, Ke Ma,
+- [Improving Fast Adversarial Training with Prior-Guided Knowledge](https://arxiv.org/pdf/2304.00202.pdf), **Xiaojun Jia**, Yong Zhang, Xingxing Wei, Baoyuan Wu, Ke Ma,
 Jue Wang, and Xiaochun Cao, **TPAMI 2024** \| [**Project**](https://ieeexplore.ieee.org/abstract/document/10478545) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-PGK)
 
 </div>
