@@ -26,6 +26,7 @@ I am a Postdoc at Nanyang Technological University, working with Prof. [Yang Liu
 
 
 # 🎉 News
+- *2024.04*: &nbsp; One paper on Survey on Transferability of Adversarial Examples is accepted in TMLR2024.
 - *2024.04*: &nbsp; One paper on Fast Adversarial Training is accepted in TIFS2024.
 - *2024.03*: &nbsp; One paper on Fast Adversarial Training is accepted in TPAMI2024.
 - *2024.02*: &nbsp; One paper on Adversarial Attack on 3D is accepted in CVPR2024.
