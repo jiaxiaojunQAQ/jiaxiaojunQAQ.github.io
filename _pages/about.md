@@ -47,6 +47,14 @@ At present, I am focused on issues related to the security of large models, incl
 <!-- <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1"> -->
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [A Survey on Transferability of Adversarial Examples Across Deep Neural Networks](https://openreview.net/pdf?id=AYJ3m7BocI), Jindong Gu, **Xiaojun Jia**, Pau de Jorge, Wenqian Yu, Xinwei Liu, Avery Ma, Yuan Xun, Anjun Hu, Ashkan Khakzar, Zhijiang Li, Xiaochun Cao, Philip Torr, **TMLR 2024** \| [**Project**](https://openreview.net/forum?id=AYJ3m7BocI&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)) \| [Github](https://github.com/JindongGu/awesome_adversarial_transferability)
+
+</div>
+</div> 
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/FGSM_LAW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
