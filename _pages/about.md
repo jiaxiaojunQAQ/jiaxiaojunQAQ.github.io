@@ -30,6 +30,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
+- *2024.05*: &nbsp; One paper on Universal Adversarial Examples is accepted in TIFS2024.
 - *2024.04*: &nbsp; One paper on Survey on Transferability of Adversarial Examples is accepted in TMLR2024.
 - *2024.04*: &nbsp; One paper on Fast Adversarial Training is accepted in TIFS2024.
 - *2024.03*: &nbsp; One paper on Fast Adversarial Training is accepted in TPAMI2024.
