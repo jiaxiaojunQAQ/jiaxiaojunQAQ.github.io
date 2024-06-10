@@ -38,8 +38,8 @@ At present, I am focused on issues related to the security of large models, incl
 - *2024.01*: &nbsp; One paper on Backdoor Attack is accepted in ICLR2024.
 - *2024.01*: &nbsp; One Journal paper on Backdoor Attack is accepted to TIFS2024.
 - *2023.12*: &nbsp; Second runner-up in NeurIPS 2023 Red Teaming Track - Base Model Subtrack.
-- *2023.12*: &nbsp; One paper on AI safety and robustness are accepted in AAAI2024.
-- *2023.12*: &nbsp; One Journal paper on AI safety and robustness are accepted in IJCV2024.
+- *2023.12*: &nbsp; One paper on AI safety and robustness is accepted in AAAI2024.
+- *2023.12*: &nbsp; One Journal paper on AI safety and robustness is accepted in IJCV2024.
 - *2023.10*: &nbsp; One Journal paper on Fast Adversarial Training is accepted to TIFS2024.
 
 
@@ -47,6 +47,18 @@ At present, I am focused on issues related to the security of large models, incl
 
 <!-- <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1"> -->
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TIFS2024_UAP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Texture Re-scalable Universal Adversarial Perturbation], Yihao Huang, Qing Guo, Felix Juefei-Xu, Ming Hu, Xiaojun Jia, Xiaochun Cao, Geguang Pu and Yang Liu, **TIFS 2024** \| [**Project**] \| [Github]
+
+</div>
+
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
