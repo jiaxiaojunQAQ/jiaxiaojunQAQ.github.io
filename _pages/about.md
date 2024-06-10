@@ -51,12 +51,9 @@ At present, I am focused on issues related to the security of large models, incl
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/TIFS2024_UAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Texture Re-scalable Universal Adversarial Perturbation], Yihao Huang, Qing Guo, Felix Juefei-Xu, Ming Hu, Xiaojun Jia, Xiaochun Cao, Geguang Pu and Yang Liu, **TIFS 2024** \| [**Project**] \| [Github]
+- [Texture Re-scalable Universal Adversarial Perturbation], Yihao Huang, Qing Guo, Felix Juefei-Xu, Ming Hu,  **Xiaojun Jia(Corresponding Author)**, Xiaochun Cao, Geguang Pu and Yang Liu, **TIFS 2024** \| [**Project**] \| [Github]
 
 </div>
-
-
-
 
 
 
