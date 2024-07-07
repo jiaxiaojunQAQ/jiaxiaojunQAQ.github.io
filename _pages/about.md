@@ -30,9 +30,9 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
+- *2024.06*: &nbsp; One paper on Fast Adversarial Training is accepted in TIFS2024.
 - *2024.05*: &nbsp; One paper on Universal Adversarial Examples is accepted in TIFS2024.
 - *2024.04*: &nbsp; One paper on Survey on Transferability of Adversarial Examples is accepted in TMLR2024.
-- *2024.04*: &nbsp; One paper on Fast Adversarial Training is accepted in TIFS2024.
 - *2024.03*: &nbsp; One paper on Fast Adversarial Training is accepted in TPAMI2024.
 - *2024.02*: &nbsp; One paper on Adversarial Attack on 3D is accepted in CVPR2024.
 - *2024.01*: &nbsp; One paper on Backdoor Attack is accepted in ICLR2024.
@@ -47,6 +47,17 @@ At present, I am focused on issues related to the security of large models, incl
 
 <!-- <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1"> -->
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/FGSM_LAW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Revisiting and Exploring Efficient Fast Adversarial Training via LAW: Lipschitz Regularization and Auto Weight Averaging](https://arxiv.org/pdf/2308.11443.pdf),
+  \\ **Xiaojun Jia**,  Yuefeng Chen, Xiaofeng Mao, Ranjie Duan, Jindong Gu, Rong Zhang, Hui Xue, Yang Liu, and Xiaochun Cao, **TIFS 2024** \| [**Project**]([https://arxiv.org/pdf/2308.11443.pdf](https://ieeexplore.ieee.org/abstract/document/10574880)) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-LAW)
+
+</div>
+</div> 
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2024</div><img src='images/TIFS2024_UAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,14 +76,6 @@ At present, I am focused on issues related to the security of large models, incl
 </div>
 </div> 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/FGSM_LAW.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- [Revisiting and Exploring Efficient Fast Adversarial Training via LAW: Lipschitz Regularization and Auto Weight Averaging](https://arxiv.org/pdf/2308.11443.pdf), **Xiaojun Jia**,  Yuefeng Chen, Xiaofeng Mao, Ranjie Duan, Jindong Gu, Rong Zhang, Hui Xue, Yang Liu, and Xiaochun Cao, **TIFS 2024** \| [**Project**](https://arxiv.org/pdf/2308.11443.pdf) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-LAW)
-
-</div>
-</div> 
 
 
 
