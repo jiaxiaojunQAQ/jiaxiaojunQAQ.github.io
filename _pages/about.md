@@ -61,7 +61,8 @@ At present, I am focused on issues related to the security of large models, incl
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/FGSM_LAW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Revisiting and Exploring Efficient Fast Adversarial Training via LAW: Lipschitz Regularization and Auto Weight Averaging](https://arxiv.org/pdf/2308.11443.pdf), \\
+
+- [Revisiting and Exploring Efficient Fast Adversarial Training via LAW: Lipschitz Regularization and Auto Weight Averaging](https://arxiv.org/pdf/2308.11443.pdf), \\
   **Xiaojun Jia**,  Yuefeng Chen, Xiaofeng Mao, Ranjie Duan, Jindong Gu, Rong Zhang, Hui Xue, Yang Liu, and Xiaochun Cao, \\
   ****IEEE Transactions on Information Forensics and Security 2024** (CCF-A)** \| [**Project**]([https://arxiv.org/pdf/2308.11443.pdf](https://ieeexplore.ieee.org/abstract/document/10574880)) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-LAW)
 
