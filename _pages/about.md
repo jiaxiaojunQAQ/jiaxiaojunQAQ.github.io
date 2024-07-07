@@ -56,6 +56,17 @@ At present, I am focused on issues related to the security of large models, incl
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ECCV2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Boosting Transferability in Vision-Language Attacks via Diversification along the Intersection Region of Adversarial Trajectory](https://arxiv.org/pdf/2403.12445), <br />
+Sensen Gao, **Xiaojun Jia(Corresponding Author)**, Xuhong Ren, Ivor Tsang, and Qing Guo <br />
+**European Conference on Computer Vision 2024 (ECCV 2024)** \| [**Project**](https://arxiv.org/pdf/2403.12445) \| [Github](https://github.com/SensenGao/VLPTransferAttack)
+
+</div>
+</div> 
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/FGSM_LAW.png' alt="sym" width="100%"></div></div>
@@ -127,6 +138,17 @@ Jiawei Liang, Siyuan Liang, Aishan Liu, **Xiaojun Jia**, Junhao Kuang, Xiaochun 
 
 </div>
 </div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Minimalism_is_King_TIFS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Minimalism is King! High-Frequency Energy-based Screening for Data-Efficient Backdoor Attacks](https://ieeexplore.ieee.org/document/10478135), <br />
+  Yuan Xun, **Xiaojun Jia(Corresponding Author)**, Jindong Gu, Xinwei Liu, Qing Guo, Xiaochun Cao, <br />
+  **IEEE Transactions on Information Forensics and Security 2024 (TIFS 2024)** (CCF-A) \| [**Project**]([https://ieeexplore.ieee.org/abstract/document/10574880](https://ieeexplore.ieee.org/document/10478135)) \| [Github]
+
+</div>
+</div> 
+
 
 
 
