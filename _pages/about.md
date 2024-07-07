@@ -56,10 +56,8 @@ At present, I am focused on issues related to the security of large models, incl
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='pub_images/2024TIFS_TSC_UAP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-  
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/FGSM_LAW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
