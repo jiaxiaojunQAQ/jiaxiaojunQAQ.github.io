@@ -40,6 +40,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
+- *2024.07*: &nbsp; One paper on Transferability of Adversarial Examples on Vision-Language Pre-training is accepted in ECCV2024.
 - *2024.06*: &nbsp; One paper on Fast Adversarial Training is accepted in TIFS2024.
 - *2024.05*: &nbsp; One paper on Universal Adversarial Examples is accepted in TIFS2024.
 - *2024.04*: &nbsp; One paper on Survey on Transferability of Adversarial Examples is accepted in TMLR2024.
@@ -64,7 +65,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 - [Revisiting and Exploring Efficient Fast Adversarial Training via LAW: Lipschitz Regularization and Auto Weight Averaging](https://arxiv.org/pdf/2308.11443.pdf), <br />
   **Xiaojun Jia**,  Yuefeng Chen, Xiaofeng Mao, Ranjie Duan, Jindong Gu, Rong Zhang, Hui Xue, Yang Liu, and Xiaochun Cao, <br />
-  **IEEE Transactions on Information Forensics and Security 2024** (CCF-A) \| [**Project**]([https://arxiv.org/pdf/2308.11443.pdf](https://ieeexplore.ieee.org/abstract/document/10574880)) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-LAW)
+  **IEEE Transactions on Information Forensics and Security 2024** (CCF-A) \| [**Project**](https://ieeexplore.ieee.org/abstract/document/10574880) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-LAW)
 
 </div>
 </div> 
