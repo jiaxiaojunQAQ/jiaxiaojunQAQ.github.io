@@ -74,7 +74,7 @@ Sensen Gao, **Xiaojun Jia(Corresponding Author)**, Xuhong Ren, Ivor Tsang, and Q
 
 - [Revisiting and Exploring Efficient Fast Adversarial Training via LAW: Lipschitz Regularization and Auto Weight Averaging](https://arxiv.org/pdf/2308.11443.pdf), <br />
   **Xiaojun Jia**,  Yuefeng Chen, Xiaofeng Mao, Ranjie Duan, Jindong Gu, Rong Zhang, Hui Xue, Yang Liu, and Xiaochun Cao, <br />
-  **IEEE Transactions on Information Forensics and Security 2024 (TIFS 2024)** (CCF-A) \| [**Project**](https://ieeexplore.ieee.org/abstract/document/10574880) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-LAW)
+  **IEEE Transactions on Information Forensics and Security 2024 (TIFS 2024)**  \| [**Project**](https://ieeexplore.ieee.org/abstract/document/10574880) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-LAW)
 
 </div>
 </div> 
@@ -85,7 +85,7 @@ Sensen Gao, **Xiaojun Jia(Corresponding Author)**, Xuhong Ren, Ivor Tsang, and Q
 
 - [Texture Re-scalable Universal Adversarial Perturbation](https://arxiv.org/pdf/2406.06089), <br /> 
   Yihao Huang, Qing Guo, Felix Juefei-Xu, Ming Hu,  **Xiaojun Jia(Corresponding Author)**, Xiaochun Cao, Geguang Pu and Yang Liu, <br />
-  **IEEE Transactions on Information Forensics and Security 2024 (TIFS 2024)** (CCF-A) \| [**Project**](https://ieeexplore.ieee.org/document/10559847) \| [Github]
+  **IEEE Transactions on Information Forensics and Security 2024 (TIFS 2024)**  \| [**Project**](https://ieeexplore.ieee.org/document/10559847) \| [Github]
 
 </div>
 </div>
@@ -144,7 +144,7 @@ Jiawei Liang, Siyuan Liang, Aishan Liu, **Xiaojun Jia**, Junhao Kuang, Xiaochun 
 
 - [Minimalism is King! High-Frequency Energy-based Screening for Data-Efficient Backdoor Attacks](https://ieeexplore.ieee.org/document/10478135), <br />
   Yuan Xun, **Xiaojun Jia(Corresponding Author)**, Jindong Gu, Xinwei Liu, Qing Guo, Xiaochun Cao, <br />
-  **IEEE Transactions on Information Forensics and Security 2024 (TIFS 2024)** (CCF-A) \| [**Project**]([https://ieeexplore.ieee.org/abstract/document/10574880](https://ieeexplore.ieee.org/document/10478135)) \| [Github]
+  **IEEE Transactions on Information Forensics and Security 2024 (TIFS 2024)**  \| [**Project**]([https://ieeexplore.ieee.org/abstract/document/10574880](https://ieeexplore.ieee.org/document/10478135)) \| [Github]
 
 </div>
 </div> 
@@ -181,7 +181,7 @@ Xiaofeng Mao, Yufeng Chen, **Xiaojun Jia**, Rong Zhang, Hui Xue and Zhao Li,<br 
 
 - [Propagation is Better: Accelerating Single-Step Adversarial Training via Sampling Subnetwork](https://arxiv.org/pdf/2310.15444.pdf), <br />
 **Xiaojun Jia**, Jianshu Li, Jindong Gu, Yang Bai and Xiaochun Cao, <br />
-**IEEE Transactions on Information Forensics and Security 2024 (TIFS 2024)** (CCF-A) \| [**Project**](https://ieeexplore.ieee.org/abstract/document/10471619) \| [Github](https://github.com/jiaxiaojunQAQ/FP-Better)
+**IEEE Transactions on Information Forensics and Security 2024 (TIFS 2024)**  \| [**Project**](https://ieeexplore.ieee.org/abstract/document/10471619) \| [Github](https://github.com/jiaxiaojunQAQ/FP-Better)
 
 </div>
 </div> 
