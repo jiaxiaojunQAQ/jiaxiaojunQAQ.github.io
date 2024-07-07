@@ -59,12 +59,12 @@ At present, I am focused on issues related to the security of large models, incl
 <div class='paper-box-text' markdown="1"> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/FGSM_LAW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2024</div><img src='images/FGSM_LAW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Revisiting and Exploring Efficient Fast Adversarial Training via LAW: Lipschitz Regularization and Auto Weight Averaging](https://arxiv.org/pdf/2308.11443.pdf), <br />
   **Xiaojun Jia**,  Yuefeng Chen, Xiaofeng Mao, Ranjie Duan, Jindong Gu, Rong Zhang, Hui Xue, Yang Liu, and Xiaochun Cao, <br />
-  ****IEEE Transactions on Information Forensics and Security 2024** (CCF-A)** \| [**Project**]([https://arxiv.org/pdf/2308.11443.pdf](https://ieeexplore.ieee.org/abstract/document/10574880)) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-LAW)
+  **IEEE Transactions on Information Forensics and Security 2024** (CCF-A) \| [**Project**]([https://arxiv.org/pdf/2308.11443.pdf](https://ieeexplore.ieee.org/abstract/document/10574880)) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-LAW)
 
 </div>
 </div> 
@@ -73,7 +73,9 @@ At present, I am focused on issues related to the security of large models, incl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2024</div><img src='images/TIFS2024_UAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Texture Re-scalable Universal Adversarial Perturbation](https://arxiv.org/pdf/2406.06089), Yihao Huang, Qing Guo, Felix Juefei-Xu, Ming Hu,  **Xiaojun Jia(Corresponding Author)**, Xiaochun Cao, Geguang Pu and Yang Liu, **TIFS 2024** \| [**Project**](https://ieeexplore.ieee.org/document/10559847) \| [Github]
+- [Texture Re-scalable Universal Adversarial Perturbation](https://arxiv.org/pdf/2406.06089), <br /> 
+  Yihao Huang, Qing Guo, Felix Juefei-Xu, Ming Hu,  **Xiaojun Jia(Corresponding Author)**, Xiaochun Cao, Geguang Pu and Yang Liu, <br />
+  **IEEE Transactions on Information Forensics and Security 2024** (CCF-A) \| [**Project**](https://ieeexplore.ieee.org/document/10559847) \| [Github]
 
 </div>
 </div>
@@ -82,7 +84,9 @@ At present, I am focused on issues related to the security of large models, incl
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [A Survey on Transferability of Adversarial Examples Across Deep Neural Networks](https://openreview.net/pdf?id=AYJ3m7BocI), Jindong Gu, **Xiaojun Jia**, Pau de Jorge, Wenqian Yu, Xinwei Liu, Avery Ma, Yuan Xun, Anjun Hu, Ashkan Khakzar, Zhijiang Li, Xiaochun Cao, Philip Torr, **TMLR 2024** \| [**Project**](https://openreview.net/forum?id=AYJ3m7BocI&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)) \| [Github](https://github.com/JindongGu/awesome_adversarial_transferability)
+- [A Survey on Transferability of Adversarial Examples Across Deep Neural Networks](https://openreview.net/pdf?id=AYJ3m7BocI), <br />
+  Jindong Gu, **Xiaojun Jia**, Pau de Jorge, Wenqian Yu, Xinwei Liu, Avery Ma, Yuan Xun, Anjun Hu, Ashkan Khakzar, Zhijiang Li, Xiaochun Cao, Philip Torr,<br />
+  **TMLR 2024** \| [**Project**](https://openreview.net/forum?id=AYJ3m7BocI&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)) \| [Github](https://github.com/JindongGu/awesome_adversarial_transferability)
 
 </div>
 </div> 
