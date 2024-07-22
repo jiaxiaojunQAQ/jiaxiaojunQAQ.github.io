@@ -40,6 +40,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
+- *2024.07*: &nbsp; One paper on Unlearnable Examples for VLP is accepted in ACM MM2024.
 - *2024.07*: &nbsp; One paper on Transferability of Adversarial Examples on VLP is accepted in ECCV2024.
 - *2024.06*: &nbsp; One paper on Fast Adversarial Training is accepted in TIFS2024.
 - *2024.05*: &nbsp; One paper on Universal Adversarial Examples is accepted in TIFS2024.
