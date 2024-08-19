@@ -348,6 +348,7 @@ Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, IEEE TPAMI, IEEE T
 - [Boosting Fast Adversarial Training with Learnable Adversarial Initialization](https://arxiv.org/pdf/2110.05007.pdf), **Xiaojun Jia**, Yong Zhang, Baoyuan Wu, Jue Wang, Xiaochun Cao  \| [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:zYLM7Y9cAGgC) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-SDI)-->
 
 # 🎖 Honors and Awards
+- *2024.08* [CCDM 2024 Red Teaming Multimodal Large Language Model Security Challenge](https://mp.weixin.qq.com/s/HFGjGQeefuvl73VYk58ecA), Champion.
 - *2023.12.18* [NeurIPS 2023 Red Teaming Track - Base Model Subtrack](https://trojandetection.ai/leaderboards), Second runner-up.
 - *2021.06* [ACM MM2021 Security AI Challenger: Robust Logo Detection](https://s.alibaba.com/challenge/ACMMM2021ChallengeRobustLogoDetection/?spm=5176.12281976.0.0.783430499dGPgZ), Runner-up. 
 - *2021.11* [Face security confrontation in OPPO Security Challenge](https://security.oppo.com/challenge/competition-detail.html), Runner-up. 
