@@ -63,7 +63,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 - [Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning](https://arxiv.org/pdf/2407.16307), <br />
 Xinwei Liu, **Xiaojun Jia(Corresponding Author)**, Yuan Xun, Siyuan Liang, Xiaochun Cao, <br />
-**Proceedings of the 32st ACM International Conference on Multimedia 2023 (ACM MM, 2024)**  \| [**Project**](https://arxiv.org/pdf/2407.16307) \| [Github](https://github.com/thinwayliu/Multimodal-Unlearnable-Examples)
+**Proceedings of the 32nd ACM International Conference on Multimedia 2024 (ACM MM, 2024)**  \| [**Project**](https://arxiv.org/pdf/2407.16307) \| [Github](https://github.com/thinwayliu/Multimodal-Unlearnable-Examples)
 
 </div>
 </div> 
