@@ -58,7 +58,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACMMMM2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACMMM2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning](https://arxiv.org/pdf/2407.16307), <br />
