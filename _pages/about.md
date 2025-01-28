@@ -61,7 +61,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/PJI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/PJI.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Perception-guided Jailbreak against Text-to-Image Models](https://arxiv.org/pdf/2408.10848), <br />
@@ -74,7 +74,7 @@ Yihao Huang, Le Liang, Tianlin Li, **Xiaojun Jia(Corresponding Author)**, Run Wa
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/AdvDiffVLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/AdvDiffVLM.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Efficient Generation of Targeted and Transferable Adversarial Examples for Vision-Language Models via Diffusion Models](https://arxiv.org/abs/2404.10335), <br />
