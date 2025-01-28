@@ -40,8 +40,9 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
+- *2025.01*: &nbsp; One paper on Jailbreak Attack for LLM is accepted in ICLR2025.
 - *2024.12*: &nbsp; One paper on Jailbreak Attack for T2I Models is accepted in AAAI2025.
-- *2024.12*: &nbsp; One Journal paper on Adversarial Attack for MLLMs is accepted to TIFS2024.
+- *2024.12*: &nbsp; One Journal paper on Adversarial Attack for MLLMs is accepted to TIFS2025.
 - *2024.08*: &nbsp; Champion in CCDM 2024 Red Teaming Multimodal Large Language Model Security Challenge.
 - *2024.07*: &nbsp; One paper on Unlearnable Examples for VLP is accepted in ACM MM2024.
 - *2024.07*: &nbsp; One paper on Transferability of Adversarial Examples on VLP is accepted in ECCV2024.
