@@ -381,6 +381,10 @@ Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, IEEE TPAMI, IEEE T
 - *2021.11* [Face security confrontation in OPPO Security Challenge](https://security.oppo.com/challenge/competition-detail.html), Runner-up. 
 - *2021* Best Paper of Adversarial for Good Award, ICML AdvML Workshop.
 
+# 🚩 Organization
+- *2024* Global Challenge for Safe and Secure LLMs.
+- *2024* DataCon2024 Big Data Security Analysis Competition.
+
 # 📖 Educations
 - *2023.08 - now* Nanyang Technological University, Research Fellow.
 - *2018.06 - 2023.07* School of Cyberspace Security, University of Chinese Academy of Sciences, PhD.  
