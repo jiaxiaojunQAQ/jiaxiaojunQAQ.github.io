@@ -72,6 +72,17 @@ Xinwei Liu, **Xiaojun Jia(Corresponding Author)**, Yuan Xun, Siyuan Liang, Xiaoc
 </div> 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ECCV2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Efficient Generation of Targeted and Transferable Adversarial Examples for Vision-Language Models via Diffusion Models](https://arxiv.org/abs/2404.10335), <br />
+Qi Guo, Shanmin Pang, **Xiaojun Jia(Corresponding Author)**, Yang Liu, Qing Guo <br />
+ **IEEE Transactions on Information Forensics and Security 2025 (TIFS 2025)** \| [**Project**](https://ieeexplore.ieee.org/abstract/document/10812818) \| [Github](https://github.com/gq-max/AdvDiffVLM)
+
+</div>
+</div> 
+
+
 
 
 
