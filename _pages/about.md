@@ -65,7 +65,15 @@ At present, I am focused on issues related to the security of large models, incl
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TIFS2025_SI.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+- [Scale-Invariant Adversarial Attack against Arbitrary-scale Super-resolution](https://arxiv.org/pdf/2503.04385), <br />
+Yihao Huang, Xin Luo, Qing Guo, Felix Juefei-Xu, **Xiaojun Jia(Corresponding Author)**, Weikai Miao, Geguang Pu, Yang Liu <br />
+ **IEEE Transactions on Information Forensics and Security 2025 (TIFS 2025)** \| [**Project**](https://ieeexplore.ieee.org/document/10919122) \| [Github](https://github.com/Ecnu-luobote/SIAGT)
+
+</div>
+</div> 
 
 
 
