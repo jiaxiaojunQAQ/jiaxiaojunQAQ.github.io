@@ -64,6 +64,18 @@ At present, I am focused on issues related to the security of large models, incl
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TPAMI2025_Move.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Move: Effective and harmless ownership verification via embedded external features](https://arxiv.org/abs/2208.02820), <br />
+  Yiming Li, Linghui Zhu, **Xiaojun Jia(Corresponding Author)**, Yang Bai, Yong Jiang, Shu-Tao Xia, Xiaochun Cao, Kui Ren, <br />
+  **IEEE Transactions on Pattern Analysis and Machine Intelligence 2025 (TPAMI 2025)** \| [**Project**](https://arxiv.org/abs/2208.02820) \| [Github](https://github.com/THUYimingLi/MOVE)
+
+</div>
+</div> 
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/TIFS2025_SI.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
