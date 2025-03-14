@@ -40,6 +40,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
+- *2025.03*: &nbsp; One paper on Jailbreak defense for LLM is accepted in in TOSEM2025.
 - *2025.02*: &nbsp; One paper on Ownership Verification is accepted in TPAMI2025.
 - *2025.02*: &nbsp; One paper on Adversarial Attack for Arbitrary-scale Super-resolution is accepted in TIFS2025.
 - *2025.01*: &nbsp; One paper on Jailbreak Attack for LLM is accepted in ICLR2025.
