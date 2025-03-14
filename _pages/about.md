@@ -64,6 +64,19 @@ At present, I am focused on issues related to the security of large models, incl
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ICLR2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Improved techniques for optimization-based jailbreaking on large language models](https://arxiv.org/abs/2405.21018),  <br />
+**Xiaojun Jia**, Tianyu Pang, Chao Du, Yihao Huang, Jindong Gu, Yang Liu, Xiaochun Cao, Min Lin,  <br />
+**International Conference on Learning Representations 2024 (ICLR 2024)** \| [**Project**](https://openreview.net/forum?id=e9yfCY7Q3U&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)) \| [Github](https://github.com/jiaxiaojunQAQ/I-GCG)
+
+
+</div>
+</div> 
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/PJI.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
