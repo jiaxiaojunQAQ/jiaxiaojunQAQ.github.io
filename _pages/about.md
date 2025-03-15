@@ -36,7 +36,7 @@ I am a research fellow at Nanyang Technological University, working with Prof. [
 I was a visiting student (Remote) from February, 2023 to September, 2023 in the [Torr Vision Group](https://torrvision.com/), University of Oxford. I was a research intern  from March, 2022 to February, 2023 at  Ali Group Security. I was a research intern from May, 2020 to February, 2022 at Tencent AI Lab. 
 
 At present, I am focused on issues related to the security of large models, including jailbreaking attacks on LLM (Large Language Models), adversarial transferability on VLM (Vision Language Models), and so on.
-<p style="color: blue;">I am actively seeking highly self-motivated students who have a strong background and interests in my research topics (but are not limited). Please drop me an email with your CV if you are interested in working with me. Together, we have the chance to embark on a gratifying journey, confronting real-world problems and achieving substantial, tangible impacts.</p>
+<p style="color: blue;">I am actively seeking highly self-motivated students who have a strong background and interests in my research topics (but are not limited). Please drop me an email with your CV if you are interested in working with me (Email: jiaxiaojunqaq@gmail.com). Together, we have the chance to embark on a gratifying journey, confronting real-world problems and achieving substantial, tangible impacts.</p>
 
 
 
