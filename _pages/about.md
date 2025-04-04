@@ -439,7 +439,10 @@ Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, IEEE TPAMI, IEEE T
 - *2014.09 - 2018.06*, School of Information Engineering, China University of Geosciences, Bachelor. 
 
 # 💬 Invited Talks
-- *2024.10*, [2024 Patian White Hat Hacker Annual Ceremony](https://whc.butian.net/2024), China, Title ``The dual threat of large vision-language models: an in-depth exploration from adversarial to jailbreak attacks"
+
+- *2025.04*, [2025 Black Hat Asia - AI Summit](https://www.blackhat.com/asia-25/summit-sessions/schedule/index.html#track/ai-summit), Singapore, Title “LLM Firewalls: Are They the Future of AI Security?”
+- *2024.10*, [2024 Patian White Hat Hacker Annual Ceremony](https://whc.butian.net/2024), China, Title “The dual threat of large vision-language models: an in-depth exploration from adversarial to jailbreak attacks”
+- *2024.07*, [2024 World Al Conference & High-levelMeeting on Global Al Governance](https://english.shanghai.gov.cn/en-2024waic/index.html), China, Title “An in-depth exploration from machine learning safety to large model safety”
 
   
 <!--
