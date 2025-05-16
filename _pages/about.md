@@ -41,7 +41,8 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
-- *2025.05*: &nbsp; Two paper on Satety of MLLMs are accepted in ICML2025.
+- *2025.05*: &nbsp; Two papers on Satety of LLMs are accepted in ACL2025.
+- *2025.05*: &nbsp; Two papers on Satety of MLLMs are accepted in ICML2025.
 - *2025.04*: &nbsp; One paper on Dataset Ownership Verification for MLLM is accepted in SIGIR2025.
 - *2025.03*: &nbsp; One paper on Jailbreak Defense for MLLM is accepted in TOSEM2025.
 - *2025.02*: &nbsp; One paper on Ownership Verification is accepted in TPAMI2025.
