@@ -69,6 +69,18 @@ At present, I am focused on issues related to the security of large models, incl
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2025PAMI_SA_AET.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Semantic-Aligned Adversarial Evolution Triangle for High-Transferability Vision-Language Attack](https://arxiv.org/pdf/2411.02669), <br />
+**Xiaojun Jia**, Sensen Gao, Qing Guo, Ke Ma, Yihao Huang, Simeng Qin, Yang Liu, Ivor Tsang Fellow, Xiaochun Cao, <br />
+**IEEE Transactions on Pattern Analysis and Machine Intelligence 2025 (TPAMI 2025)** \| [**Project**](https://arxiv.org/pdf/2411.02669) \| [Github](https://github.com/jiaxiaojunQAQ/SA-AET)
+  
+</div>
+</div> 
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/2025ACL_POUGH.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
