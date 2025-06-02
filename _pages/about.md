@@ -41,6 +41,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
+- *2024.06*: &nbsp; One paper on Adversarial Transferability for VLP models accepted in TPAMI2025.
 - *2025.05*: &nbsp; Two papers on Satety of LLMs are accepted in ACL2025.
 - *2025.05*: &nbsp; Two papers on Satety of MLLMs are accepted in ICML2025.
 - *2025.04*: &nbsp; One paper on Dataset Ownership Verification for MLLM is accepted in SIGIR2025.
@@ -67,6 +68,20 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 📝 Publications 
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2025SIGIR_PATFinger.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [PATFinger: Prompt-Adapted Transferable Fingerprinting against Unauthorized Multimodal Dataset Usage](https://arxiv.org/pdf/2504.11509), <br />
+Wenyi Zhang, Ju Jia, **Xiaojun Jia**, Yihao Huang, Xinfeng Li, Cong Wu, and Lina Wang, <br />
+**International ACM SIGIR Conference on Research and Development in Information Retrieval 2025 (SIGIR2025)**  \| [**Project**](https://arxiv.org/pdf/2504.11509)
+  
+</div>
+</div> 
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/TPAMI2025_Move.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
