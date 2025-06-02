@@ -69,7 +69,15 @@ At present, I am focused on issues related to the security of large models, incl
 
 # 📝 Publications 
 
-
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2025ACL_POUGH.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Efficient Universal Goal Hijacking with Semantics-guided Prompt Organization](https://arxiv.org/abs/2405.14189), <br />
+Yihao Huang, Chong Wang, **Xiaojun Jia(Corresponding Author)**, Qing Guo, Felix Juefei-Xu, Jian Zhang, Yang Liu, Geguang Pu, <br />
+**Annual Meeting of the Association for Computational Linguistics 2025 (ACL2025)** \| [**Project**](https://arxiv.org/abs/2405.14189) 
+  
+</div>
+</div> 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/2025SIGIR_PATFinger.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
