@@ -41,6 +41,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
+- *2024.06*: &nbsp; Four papers on Security of MLLM are accepted in ICCV2025.
 - *2024.06*: &nbsp; One paper on Adversarial Transferability for VLP models accepted in TPAMI2025.
 - *2025.05*: &nbsp; Two papers on Satety of LLMs are accepted in ACL2025.
 - *2025.05*: &nbsp; Two papers on Satety of MLLMs are accepted in ICML2025.
