@@ -454,8 +454,8 @@ Yiming Li, Linghui Zhu, **Xiaojun Jia**, Yong Jiang, Shu-Tao Xia, Xiaochun Cao <
 
 
 # 🎉 Professional Service 
-Reviewer or Program Committee: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, ACM MM, IEEE TPAMI, IEEE TIP, IEEE TIFS, IEEE TDSC
-Senior Program Committee: AAAI-26-AIA
+- *Reviewer or Program Committee*: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, ACM MM, IEEE TPAMI, IEEE TIP, IEEE TIFS, IEEE TDSC
+- *Senior Program Committee*: AAAI-26-AIA
 
 
 <!--
