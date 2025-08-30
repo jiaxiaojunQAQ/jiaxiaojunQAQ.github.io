@@ -41,6 +41,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
+- *2024.08*: &nbsp; Three papers on Security of MLLM are accepted in EMNLP2025.
 - *2024.07*: &nbsp; One papers on Privacy of VLMs are accepted in ACM MM2025.
 - *2024.06*: &nbsp; Four papers on Security of MLLM are accepted in ICCV2025.
 - *2024.06*: &nbsp; One paper on Adversarial Transferability for VLP models accepted in TPAMI2025.
@@ -463,10 +464,11 @@ Yiming Li, Linghui Zhu, **Xiaojun Jia**, Yong Jiang, Shu-Tao Xia, Xiaochun Cao <
 - [Boosting Fast Adversarial Training with Learnable Adversarial Initialization](https://arxiv.org/pdf/2110.05007.pdf), **Xiaojun Jia**, Yong Zhang, Baoyuan Wu, Jue Wang, Xiaochun Cao  \| [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:zYLM7Y9cAGgC) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-SDI)-->
 
 # 🎖 Honors and Awards
-- *2024.08* [CCDM 2024 Red Teaming Multimodal Large Language Model Security Challenge](https://mp.weixin.qq.com/s/HFGjGQeefuvl73VYk58ecA), Champion.
-- *2023.12* [NeurIPS 2023 Red Teaming Track - Base Model Subtrack](https://trojandetection.ai/leaderboards), Second runner-up.
-- *2021.06* [ACM MM2021 Security AI Challenger: Robust Logo Detection](https://s.alibaba.com/challenge/ACMMM2021ChallengeRobustLogoDetection/?spm=5176.12281976.0.0.783430499dGPgZ), Runner-up. 
-- *2021.11* [Face security confrontation in OPPO Security Challenge](https://security.oppo.com/challenge/competition-detail.html), Runner-up. 
+- *2025.07* [IJCAI 2025 Workshop & Challenge on Deepfake Detection, Localization, and Interpretability, Generative Large Model Security Track](https://tianchi.aliyun.com/competition/entrance/532362), 1st Place.
+- *2024.08* [CCDM 2024 Red Teaming Multimodal Large Language Model Security Challenge](https://mp.weixin.qq.com/s/HFGjGQeefuvl73VYk58ecA), 1st Place.
+- *2023.12* [NeurIPS 2023 Red Teaming Track - Base Model Subtrack](https://trojandetection.ai/leaderboards), 3rd place.
+- *2021.06* [ACM MM2021 Security AI Challenger: Robust Logo Detection](https://s.alibaba.com/challenge/ACMMM2021ChallengeRobustLogoDetection/?spm=5176.12281976.0.0.783430499dGPgZ), 2nd place. 
+- *2021.11* [Face security confrontation in OPPO Security Challenge](https://security.oppo.com/challenge/competition-detail.html), 2nd place. 
 - *2021* Best Paper of Adversarial for Good Award, ICML AdvML Workshop.
 
 # 🚩 Organization
