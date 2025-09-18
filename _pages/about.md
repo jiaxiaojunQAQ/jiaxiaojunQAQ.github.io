@@ -41,6 +41,8 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
+- *2024.09*: &nbsp; Two papers on Security of MLLM/Agent are accepted in NeurIPS2025.
+- *2024.09*: &nbsp; One papers on Security of Agent are accepted in S&P2025.
 - *2024.08*: &nbsp; Three papers on Security of MLLM are accepted in EMNLP2025.
 - *2024.07*: &nbsp; One papers on Privacy of VLMs are accepted in ACM MM2025.
 - *2024.06*: &nbsp; Four papers on Security of MLLM are accepted in ICCV2025.
