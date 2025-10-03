@@ -41,12 +41,12 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
-- *2024.09*: &nbsp; Two papers on Security of MLLM/Agent are accepted in NeurIPS2025.
-- *2024.09*: &nbsp; One papers on Security of Agent are accepted in S&P2025.
-- *2024.08*: &nbsp; Three papers on Security of MLLM are accepted in EMNLP2025.
-- *2024.07*: &nbsp; One papers on Privacy of VLMs are accepted in ACM MM2025.
-- *2024.06*: &nbsp; Four papers on Security of MLLM are accepted in ICCV2025.
-- *2024.06*: &nbsp; One paper on Adversarial Transferability for VLP models accepted in TPAMI2025.
+- *2025.09*: &nbsp; Two papers on Security of MLLM/Agent are accepted in NeurIPS2025.
+- *2025.09*: &nbsp; One papers on Security of Agent are accepted in S&P2025.
+- *2025.08*: &nbsp; Three papers on Security of MLLM are accepted in EMNLP2025.
+- *2025.07*: &nbsp; One papers on Privacy of VLMs are accepted in ACM MM2025.
+- *2025.06*: &nbsp; Four papers on Security of MLLM are accepted in ICCV2025.
+- *2025.06*: &nbsp; One paper on Adversarial Transferability for VLP models accepted in TPAMI2025.
 - *2025.05*: &nbsp; Two papers on Satety of LLMs are accepted in ACL2025.
 - *2025.05*: &nbsp; Two papers on Satety of MLLMs are accepted in ICML2025.
 - *2025.04*: &nbsp; One paper on Dataset Ownership Verification for MLLM is accepted in SIGIR2025.
