@@ -41,6 +41,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
+- *2025.10*: &nbsp; One papers on Security of VLM is accepted in TIFS2025.
 - *2025.09*: &nbsp; Two papers on Security of MLLM/Agent are accepted in NeurIPS2025.
 - *2025.09*: &nbsp; One papers on Security of Agent are accepted in S&P2025.
 - *2025.08*: &nbsp; Three papers on Security of MLLM are accepted in EMNLP2025.
@@ -54,6 +55,8 @@ At present, I am focused on issues related to the security of large models, incl
 - *2025.02*: &nbsp; One paper on Ownership Verification is accepted in TPAMI2025.
 - *2025.02*: &nbsp; One paper on Adversarial Attack for Arbitrary-scale Super-resolution is accepted in TIFS2025.
 - *2025.01*: &nbsp; One paper on Jailbreak Attack for LLM is accepted in ICLR2025.
+
+<!--
 - *2024.12*: &nbsp; One paper on Jailbreak Attack for T2I Models is accepted in AAAI2025.
 - *2024.12*: &nbsp; One Journal paper on Adversarial Attack for MLLMs is accepted to TIFS2025.
 - *2024.08*: &nbsp; Champion in CCDM 2024 Red Teaming Multimodal Large Language Model Security Challenge.
@@ -69,7 +72,7 @@ At present, I am focused on issues related to the security of large models, incl
 - *2023.12*: &nbsp; Second runner-up in NeurIPS 2023 Red Teaming Track - Base Model Subtrack.
 - *2023.12*: &nbsp; One paper on AI safety and robustness is accepted in AAAI2024.
 - *2023.12*: &nbsp; One Journal paper on AI safety and robustness is accepted in IJCV2024.
-- *2023.10*: &nbsp; One Journal paper on Fast Adversarial Training is accepted to TIFS2024.
+- *2023.10*: &nbsp; One Journal paper on Fast Adversarial Training is accepted to TIFS2024.-->
 
 
 # 📝 Publications 
