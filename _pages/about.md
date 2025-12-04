@@ -41,6 +41,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
+- *2025.12*: &nbsp; One papers on Jailbreak Attack for LLM is accepted in NDSS2026.
 - *2025.11*: &nbsp; One papers on Security of Agent is accepted in SIGKDD2026.
 - *2025.11*: &nbsp; Five papers on Security of MLLM/LLM is accepted in AAAI2026.
 - *2025.10*: &nbsp; One papers on Security of VLM is accepted in TIFS2025.
