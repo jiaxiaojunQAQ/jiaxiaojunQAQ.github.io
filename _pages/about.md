@@ -89,7 +89,7 @@ At present, I am focused on issues related to the security of large models, incl
   
 - [Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment](https://arxiv.org/pdf/2505.21494), <br />
 **Xiaojun Jia**, Sensen Gao, Simeng Qin, Tianyu Pang, Chao Du, Yihao Huang, Xinfeng Li, Yiming Li, Bo Li, Yang Liu, <br />
-**Conference on Neural Information Processing Systems (NeurIPS 2025 )** \| [**Project**](https://arxiv.org/pdf/2505.21494) \| [Github](https://github.com/jiaxiaojunQAQ/FOA-Attack)
+**Conference on Neural Information Processing Systems 2025 (NeurIPS 2025)** \| [**Project**](https://arxiv.org/pdf/2505.21494) \| [Github](https://github.com/jiaxiaojunQAQ/FOA-Attack)
   
 </div>
 </div> 
@@ -208,6 +208,20 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 ## 🌟 Corresponding Author
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/NeruIPS25_SeCon_RAG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [SeCon-RAG: A Two-Stage Semantic Filtering and Conflict-Free Framework for Trustworthy RAG](https://arxiv.org/pdf/2510.09710), <br />
+Xiaonan Si, Meilin Zhu, Simeng Qin, Lijia Yu, Lijun Zhang, Shuaitong Liu, Xinfeng Li, Ranjie Duan, Yang Liu, **Xiaojun Jia(Corresponding Author)**, <br />
+**Conference on Neural Information Processing Systems 2025 (NeurIPS 2025)** \| [**Project**](https://arxiv.org/pdf/2510.09710) \| [Github](https://github.com/lanmei666/Secon-Rag)
+
+  
+</div>
+</div> 
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ICCV2025_ HIMRD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
