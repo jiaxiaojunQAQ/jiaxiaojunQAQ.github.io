@@ -209,6 +209,17 @@ At present, I am focused on issues related to the security of large models, incl
 
 ## 🌟 Corresponding Author
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ICCV2025_ HIMRD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Ma_Heuristic-Induced_Multimodal_Risk_Distribution_Jailbreak_Attack_for_Multimodal_Large_Language_ICCV_2025_paper.pdf), <br />
+Teng Ma, **Xiaojun Jia(Corresponding Author)**, Ranjie Duan, Xinfeng Li, Yihao Huang, Xiaoshuang Jia, Zhixuan Chu, Wenqi Ren, <br />
+**International Conference on Computer Vision 2025 (ICCV2025)** \| [**Project**](https://openaccess.thecvf.com/content/ICCV2025/papers/Ma_Heuristic-Induced_Multimodal_Risk_Distribution_Jailbreak_Attack_for_Multimodal_Large_Language_ICCV_2025_paper.pdf) 
+  
+</div>
+</div> 
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/2025ACL_POUGH.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
