@@ -82,6 +82,19 @@ At present, I am focused on issues related to the security of large models, incl
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/NeruIPS25_FOA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment](https://arxiv.org/pdf/2505.21494), <br />
+**Xiaojun Jia**, Sensen Gao, Simeng Qin, Tianyu Pang, Chao Du, Yihao Huang, Xinfeng Li, Yiming Li, Bo Li, Yang Liu, <br />
+**Conference on Neural Information Processing Systems (NeurIPS 2025 )** \| [**Project**](https://arxiv.org/pdf/2505.21494) \| [Github](https://github.com/jiaxiaojunQAQ/FOA-Attack)
+  
+</div>
+</div> 
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/2025PAMI_SA_AET.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
