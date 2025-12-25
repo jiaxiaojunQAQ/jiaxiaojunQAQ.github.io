@@ -81,6 +81,8 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 📝 Publications 
+## ✨ First Author
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/NeruIPS25_FOA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -205,7 +207,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 
-
+## 🌟 Corresponding Author
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/2025ACL_POUGH.jpg' alt="sym" width="100%"></div></div>
