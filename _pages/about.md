@@ -209,6 +209,34 @@ At present, I am focused on issues related to the security of large models, incl
 
 ## 🌟 Corresponding Author
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/aaai2025_GeoShield.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Geoshield: Safeguarding geolocation privacy from vision-language models via adversarial perturbations](https://arxiv.org/pdf/2508.03209?), <br />
+Xinwei Liu, **Xiaojun Jia(Corresponding Author)**, Yuan Xun, Simeng Qin, Xiaochun Cao, <br />
+**The 40th Annual AAAI Conference on Artificial Intelligence 2026 (AAAI 2025)** \| [**Project**](https://arxiv.org/pdf/2508.03209?) \| [Github](https://github.com/thinwayliu/Geoshield)
+
+  
+</div>
+</div> 
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/aaai2025_GeoShield.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Geoshield: Safeguarding geolocation privacy from vision-language models via adversarial perturbations](https://arxiv.org/pdf/2508.03209?), <br />
+Xinwei Liu, **Xiaojun Jia(Corresponding Author)**, Yuan Xun, Simeng Qin, Xiaochun Cao, <br />
+**The 40th Annual AAAI Conference on Artificial Intelligence 2026 (AAAI 2025)** \| [**Project**](https://arxiv.org/pdf/2508.03209?) \| [Github](https://github.com/thinwayliu/Geoshield)
+
+  
+</div>
+</div> 
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/NeruIPS25_SeCon_RAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
