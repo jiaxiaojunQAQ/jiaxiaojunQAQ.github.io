@@ -209,6 +209,20 @@ At present, I am focused on issues related to the security of large models, incl
 
 ## 🌟 Corresponding Author
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/FSE2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/pdf/2512.21236), <br />
+Yifan Huang, **Xiaojun Jia(Corresponding Author)**, Wenbo Guo, Yuqiang Sun, Yihao Huang, Chong Wang, Yang Liu, <br />
+**The ACM International Conference on the Foundations of Software Engineering 2026 (FSE 2025)** \| [**Project**](https://arxiv.org/pdf/2512.21236) \| [Github](https://github.com/Navigator129/SPELL)
+
+  
+</div>
+</div> 
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/aaai2025_PhysPatch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
