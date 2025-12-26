@@ -84,7 +84,7 @@ At present, I am focused on issues related to the security of large models, incl
 ## ✨ First Author
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/NeruIPS25_FOA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/NeruIPS25_FOA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - [Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment](https://arxiv.org/pdf/2505.21494), <br />
