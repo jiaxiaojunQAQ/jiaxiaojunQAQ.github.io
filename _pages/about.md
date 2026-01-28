@@ -41,6 +41,9 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
+- *2026.01*: &nbsp; One papers on Jailbreak Attack for Audio-LLM is accepted in TDSC2026.
+- *2026.01*: &nbsp; Three papers on Jailbreak attack and defense for LLM/MLLM are accepted in ICLR2026.
+- *2026.01*: &nbsp; One papers on Jailbreak Defense for T2I model is accepted in TIFS2026.
 - *2025.12*: &nbsp; One papers on Jailbreak Attack for code agent is accepted in FSE2026.
 - *2025.12*: &nbsp; One papers on Jailbreak Attack for T2I model is accepted in Usenix Security2026.
 - *2025.12*: &nbsp; One papers on Jailbreak Attack for LLM is accepted in NDSS2026.
