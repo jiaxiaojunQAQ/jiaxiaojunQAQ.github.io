@@ -41,6 +41,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
+- *2026.02*: &nbsp; Two papers on Adversarial Attack for AI are accepted in CVPR2026.
 - *2026.01*: &nbsp; One papers on Jailbreak Attack for Audio-LLM is accepted in TDSC2026.
 - *2026.01*: &nbsp; Three papers on Jailbreak attack and defense for LLM/MLLM are accepted in ICLR2026.
 - *2026.01*: &nbsp; One papers on Jailbreak Defense for T2I model is accepted in TIFS2026.
