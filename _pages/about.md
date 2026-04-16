@@ -456,12 +456,14 @@ Bangyan He, Jian Liu, Yiming Li, Siyuan Liang, Jingzhi Li, **Xiaojun Jia(Corresp
 - *Reviewer or Program Committee*: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, ACM MM, IEEE TPAMI, IEEE TIP, IEEE TIFS, IEEE TDSC
 - *Senior Program Committee*: AAAI-26-AIA
 - *Associate Editor*: Pattern Recognition
+- *Consulting Area Editor*: IEEE TIFS
 
 <!--
 # 🎉 Preprints
 - [Boosting Fast Adversarial Training with Learnable Adversarial Initialization](https://arxiv.org/pdf/2110.05007.pdf), **Xiaojun Jia**, Yong Zhang, Baoyuan Wu, Jue Wang, Xiaochun Cao  \| [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:zYLM7Y9cAGgC) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-SDI)-->
 
 # 🎖 Honors and Awards
+- *2025*  [Chinese Institute of Electronics Doctoral Dissertation Incentive Program](https://www.cie.org.cn/list_43/15795.html)
 - *2025.07* [IJCAI 2025 Workshop & Challenge on Deepfake Detection, Localization, and Interpretability, Generative Large Model Security Track](https://tianchi.aliyun.com/competition/entrance/532362), 1st Place.
 - *2024.08* [CCDM 2024 Red Teaming Multimodal Large Language Model Security Challenge](https://mp.weixin.qq.com/s/HFGjGQeefuvl73VYk58ecA), 1st Place.
 - *2023.12* [NeurIPS 2023 Red Teaming Track - Base Model Subtrack](https://trojandetection.ai/leaderboards), 3rd place.
