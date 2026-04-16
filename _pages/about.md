@@ -41,6 +41,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
+- *2026.04*: &nbsp; One paper on Adversarial Attack for VLM is accepted in PR2026.
 - *2026.04*: &nbsp; Three papers on Jailbreak and Adversarial Attack for AI are accepted in ACL2026.
 - *2026.03*: &nbsp; One paper on Injection Attack for AI is accepted in TDSC2026.
 - *2026.02*: &nbsp; Two papers on Adversarial Attack for AI are accepted in CVPR2026.
