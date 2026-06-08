@@ -477,7 +477,6 @@ Bangyan He, Jian Liu, Yiming Li, Siyuan Liang, Jingzhi Li, **Xiaojun Jia(Corresp
 - *2024* DataCon2024 Big Data Security Analysis Competition.
 
 # 📖 Educations
-- *2023.08 - now* Nanyang Technological University, Research Fellow.
 - *2018.06 - 2023.07* School of Cyberspace Security, University of Chinese Academy of Sciences, PhD.  
 - *2014.09 - 2018.06*, School of Information Engineering, China University of Geosciences, Bachelor. 
 
