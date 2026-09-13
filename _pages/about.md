@@ -464,6 +464,7 @@ Bangyan He, Jian Liu, Yiming Li, Siyuan Liang, Jingzhi Li, **Xiaojun Jia(Corresp
 - [Boosting Fast Adversarial Training with Learnable Adversarial Initialization](https://arxiv.org/pdf/2110.05007.pdf), **Xiaojun Jia**, Yong Zhang, Baoyuan Wu, Jue Wang, Xiaochun Cao  \| [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=retTWnEAAAAJ&citation_for_view=retTWnEAAAAJ:zYLM7Y9cAGgC) \| [Github](https://github.com/jiaxiaojunQAQ/FGSM-SDI)-->
 
 # 🎖 Honors and Awards
+- *2026* [Distinguished Paper Award of CVPR 6th AdvML@CV Workshop, 2026](https://openreview.net/pdf?id=dxZVTArOxI)
 - *2025*  [Chinese Institute of Electronics Doctoral Dissertation Incentive Program](https://www.cie.org.cn/list_43/15795.html)
 - *2025.07* [IJCAI 2025 Workshop & Challenge on Deepfake Detection, Localization, and Interpretability, Generative Large Model Security Track](https://tianchi.aliyun.com/competition/entrance/532362), 1st Place.
 - *2024.08* [CCDM 2024 Red Teaming Multimodal Large Language Model Security Challenge](https://mp.weixin.qq.com/s/HFGjGQeefuvl73VYk58ecA), 1st Place.
