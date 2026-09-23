@@ -41,6 +41,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
+- *2026.08*: &nbsp; One paper on Jailbreak Attack for LLM is accepted in S&P2027.
 - *2026.08*: &nbsp; Two paper on Jailbreak Attack and Overthinking Attack for LLM are accepted in EMNLP2026.
 - *2026.06*: &nbsp; One paper on Adversarial Attack for Malware Detection is accepted in TDSC2026.
 - *2026.06*: &nbsp; One paper on Privacy Protection for Text-to-Image Diffusion is accepted in TDSC2026.
