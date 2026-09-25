@@ -41,6 +41,7 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 🎉 News
+- *2026.09*: &nbsp; Two papers on Agent Skill Security and Reasoning Safety for LLM are accepted in NeurIPS2026.
 - *2026.08*: &nbsp; One paper on Jailbreak Attack for LLM is accepted in S&P2027.
 - *2026.08*: &nbsp; Two paper on Jailbreak Attack and Overthinking Attack for LLM are accepted in EMNLP2026.
 - *2026.06*: &nbsp; One paper on Adversarial Attack for Malware Detection is accepted in TDSC2026.
@@ -96,6 +97,16 @@ At present, I am focused on issues related to the security of large models, incl
 
 # 📝 Publications 
 ## ✨ First Author
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/NeurIPS26_SkillCamo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Seeing Is Not Screening: Multimodal Hidden Instruction Attacks on Agent Skill Scanners](https://arxiv.org/pdf/2606.18198), <br />
+**Xiaojun Jia**, Jie Liao, Simeng Qin, Ke Ma, Wenbo Guo, Yebo Feng, Aishan Liu, Yang Liu, <br />
+**Conference on Neural Information Processing Systems 2026 (NeurIPS 2026)** \| [**Project**](https://arxiv.org/pdf/2606.18198) \| [Github](https://github.com/jiaxiaojunQAQ/SkillCamo)
+</div>
+</div> 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/NeruIPS25_FOA.png' alt="sym" width="100%"></div></div>
