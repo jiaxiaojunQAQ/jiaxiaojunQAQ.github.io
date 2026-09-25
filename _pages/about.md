@@ -575,6 +575,10 @@ Bangyan He, Jian Liu, Yiming Li, Siyuan Liang, Jingzhi Li, **Xiaojun Jia(Corresp
 - *2018.06 - 2023.07* School of Cyberspace Security, University of Chinese Academy of Sciences, PhD.  
 - *2014.09 - 2018.06*, School of Information Engineering, China University of Geosciences, Bachelor. 
 
+# 🎓 Teaching
+- *2025*, Tutorial, SC2006/CE2006/CZ2006 Software Engineering, Nanyang Technological University, Singapore.
+- *2025*, Tutorial, GP8000 Artificial Intelligence Literacy, Nanyang Technological University, Singapore.
+
 # 💬 Invited Talks
 
 - *2025.04*, [2025 Black Hat Asia - AI Summit](https://www.blackhat.com/asia-25/summit-sessions/schedule/index.html#track/ai-summit), Singapore, Title “LLM Firewalls: Are They the Future of AI Security?”
