@@ -548,11 +548,11 @@ Bangyan He, Jian Liu, Yiming Li, Siyuan Liang, Jingzhi Li, **Xiaojun Jia(Corresp
 
 
 # 🎉 Professional Service 
-- *Reviewer or Program Committee*: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, ACM MM, IEEE TPAMI, IEEE TIP, IEEE TIFS, IEEE TDSC
-- *Area Chair*: ICLR-27
-- *Senior Program Committee*: AAAI-26-AIA, AAAI-27-AIA
 - *Associate Editor*: Pattern Recognition
 - *Consulting Area Editor*: IEEE TIFS
+- *Area Chair*: ICLR-27
+- *Senior Program Committee*: AAAI-26-AIA, AAAI-27-AIA
+- *Reviewer or Program Committee*: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, ACM MM, IEEE TPAMI, IEEE TIP, IEEE TIFS, IEEE TDSC
 
 <!--
 # 🎉 Preprints
