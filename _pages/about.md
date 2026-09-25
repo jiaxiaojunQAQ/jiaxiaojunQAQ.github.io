@@ -233,6 +233,66 @@ At present, I am focused on issues related to the security of large models, incl
 
 ## 🌟 Corresponding Author
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ICML2026_AECoT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Reasoning as an Attack Surface: Adaptive Evolutionary CoT Jailbreaks for LLMs](https://arxiv.org/pdf/2605.24497), <br />
+Jianan Li, Simeng Qin, **Xiaojun Jia(Corresponding Author)**, Lionel Z. Wang, Tianhang Zheng, Xiaoshuang Jia, Yang Liu, Xiaochun Cao, <br />
+**International Conference on Machine Learning 2026 (ICML 2026)** \| [**Project**](https://arxiv.org/pdf/2605.24497)
+
+  
+</div>
+</div> 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL2026_GAMBIT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [GAMBIT: A Gamified Jailbreak Framework for Multimodal Large Language Models(Oral)](https://arxiv.org/pdf/2601.03416), <br />
+Xiangdong Hu, Yangyang Jiang, Qin Hu, **Xiaojun Jia(Corresponding Author)**, <br />
+**Annual Meeting of the Association for Computational Linguistics 2026 (ACL(Oral), 2026)** \| [**Project**](https://arxiv.org/pdf/2601.03416)
+
+  
+</div>
+</div> 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ICLR2026_DRIRL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment](https://arxiv.org/pdf/2503.18991), <br />
+Ruoxi Cheng, Haoxuan Ma, Weixin Wang, Ranjie Duan, Jiexi Liu, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, **Xiaojun Jia(Corresponding Author)**, <br />
+**International Conference on Learning Representations 2026 (ICLR 2026)** \| [**Project**](https://arxiv.org/pdf/2503.18991)
+
+  
+</div>
+</div> 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ICLR2026_CCBOS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Obscure but Effective: Classical Chinese Jailbreak Prompt Optimization via Bio-Inspired Search](https://arxiv.org/pdf/2602.22983), <br />
+Xun Huang, Simeng Qin, Xiaoshuang Jia, Ranjie Duan, Huanqian Yan, Zhitao Zeng, Fei Yang, Yang Liu, **Xiaojun Jia(Corresponding Author)**, <br />
+**International Conference on Learning Representations 2026 (ICLR 2026)** \| [**Project**](https://arxiv.org/pdf/2602.22983) \| [Github](https://github.com/xunhuang123/CC-BOS)
+
+  
+</div>
+</div> 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/PR2026_OTAttack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Boosting Adversarial Transferability of Vision-Language Pre-trained Models via Optimal Transport](https://arxiv.org/pdf/2312.04403), <br />
+Simeng Qin, Gang Li, Sensen Gao, Dongchen Han, **Xiaojun Jia(Corresponding Author)**, Yang Bai, Jindong Gu, Xiaochun Cao, <br />
+**Pattern Recognition 2026 (PR 2026)** \| [**Project**](https://arxiv.org/pdf/2312.04403)
+
+  
+</div>
+</div> 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/FSE2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
