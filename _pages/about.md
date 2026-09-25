@@ -238,7 +238,7 @@ At present, I am focused on issues related to the security of large models, incl
   
 - [Reasoning as an Attack Surface: Adaptive Evolutionary CoT Jailbreaks for LLMs](https://arxiv.org/pdf/2605.24497), <br />
 Jianan Li, Simeng Qin, **Xiaojun Jia(Corresponding Author)**, Lionel Z. Wang, Tianhang Zheng, Xiaoshuang Jia, Yang Liu, Xiaochun Cao, <br />
-**International Conference on Machine Learning 2026 (ICML 2026)** \| [**Project**](https://arxiv.org/pdf/2605.24497)
+**International Conference on Machine Learning 2026 (ICML 2026)** \| [**Project**](https://arxiv.org/pdf/2605.24497) \| [Github](https://github.com/JiananLi555/AE-CoT)
 
   
 </div>
@@ -262,7 +262,7 @@ Xiangdong Hu, Yangyang Jiang, Qin Hu, **Xiaojun Jia(Corresponding Author)**, <br
   
 - [Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment](https://arxiv.org/pdf/2503.18991), <br />
 Ruoxi Cheng, Haoxuan Ma, Weixin Wang, Ranjie Duan, Jiexi Liu, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, **Xiaojun Jia(Corresponding Author)**, <br />
-**International Conference on Learning Representations 2026 (ICLR 2026)** \| [**Project**](https://arxiv.org/pdf/2503.18991)
+**International Conference on Learning Representations 2026 (ICLR 2026)** \| [**Project**](https://arxiv.org/pdf/2503.18991) \| [Github](https://github.com/Rosy0912/DR-IRL)
 
   
 </div>
