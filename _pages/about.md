@@ -96,6 +96,8 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 # 📝 Publications 
+Selected publications: **12** first-author, **1** co-first-author, and **24** corresponding-author papers. See [Google Scholar](https://scholar.google.com/citations?user=retTWnEAAAAJ) for the full list.
+
 ## ✨ First Author
 
 
