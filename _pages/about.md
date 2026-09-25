@@ -231,6 +231,22 @@ At present, I am focused on issues related to the security of large models, incl
 
 
 
+## ✨ Co-First Author
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ICLR2026_MIDAS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [MIDAS: Multi-Image Dispersion and Semantic Reconstruction for Jailbreaking MLLMs](https://arxiv.org/pdf/2603.00565), <br />
+Yilian Liu, **Xiaojun Jia(Co-First Author)**, Guoshun Nan, Jiuyang Lyu, Zhican Chen, Tao Guan, Shuyuan Luo, Zhongyi Zhai, Yang Liu, <br />
+**International Conference on Learning Representations 2026 (ICLR 2026)** \| [**Project**](https://arxiv.org/pdf/2603.00565) \| [Github](https://github.com/Winnie-Lian/MIDAS)
+
+  
+</div>
+</div> 
+
+
+
+
 ## 🌟 Corresponding Author
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ICML2026_AECoT.png' alt="sym" width="100%"></div></div>
