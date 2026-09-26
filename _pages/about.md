@@ -268,7 +268,7 @@ Jianan Li, Simeng Qin, **Xiaojun Jia(Corresponding Author)**, Lionel Z. Wang, Ti
   
 - [GAMBIT: A Gamified Jailbreak Framework for Multimodal Large Language Models(Oral)](https://arxiv.org/pdf/2601.03416), <br />
 Xiangdong Hu, Yangyang Jiang, Qin Hu, **Xiaojun Jia(Corresponding Author)**, <br />
-**Annual Meeting of the Association for Computational Linguistics 2026 (ACL(Oral), 2026)** \| [**Project**](https://arxiv.org/pdf/2601.03416)
+**Annual Meeting of the Association for Computational Linguistics 2026 (ACL(Oral), 2026)** \| [**Project**](https://arxiv.org/pdf/2601.03416) \| [Github](https://github.com/East-Hu/GAMBIT-A-Gamified-Jailbreak-Framework-for-Multimodal-Large-Language-Models-ACL-2026-Oral)
 
   
 </div>
